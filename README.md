@@ -1,8 +1,8 @@
 # Olá, eu sou o Guilherme 👋
 
 ## Linguagens de Programação que utilizo
-Python
-Java
+Python, Java
+
 
 ### Top Linguagens no GitHub:
 
