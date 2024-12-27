@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme 👋
 
-<!--
-**usguilherme/usguilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linguagens de Programação que Uso
+Python
+Java
 
-Here are some ideas to get you started:
+### Top Linguagens no GitHub:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyilherme&layout=compact&theme=radical)
+
+## Sobre mim
+- 🎓 Atualmente na graduação de Ciencia da computação, UFCG
+- 🌱 Estudando HTMLL, CSS, e Ruby
+
+## Me encontre nas redes sociais:
+- **Instagram**: [@gnmacario_](https://www.instagram.com/gnmacario_/)
+
