@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme 👋
+# Olá, eu sou o Guilherme 😎
 
 ## Linguagens de Programação que utilizo
 Python, Java
