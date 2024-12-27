@@ -12,7 +12,8 @@ Python, Java
 
 ## Sobre mim
 - 🎓 Atualmente na graduação de Ciencia da computação, UFCG
-- 🌱 Estudando HTMLL, CSS, e Ruby
+- 🌱 Estudando Python, Java e Ruby
+- 😜 Estudante: Front-end - Html e Css
 
 ## Me encontre nas redes sociais:
 - **Instagram**: [@gnmacario_](https://www.instagram.com/gnmacario_/)
