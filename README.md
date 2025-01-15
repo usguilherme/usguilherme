@@ -54,6 +54,8 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
 <br/>
 <br/>
 
+---
+
 ### 🤖 Estatísticas
 
 <p>
