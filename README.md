@@ -12,6 +12,7 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
 
 ---
 
+
 ### 🤖 Línguagens e Tecnologias
 
 <img 
@@ -22,7 +23,6 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
 
 <img 
     align="left" 
@@ -56,6 +56,7 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
 
 ---
 
+
 ### 🤖 Estatísticas
 
 <p>
@@ -66,6 +67,7 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
+
 
 <img 
       align="left" 
