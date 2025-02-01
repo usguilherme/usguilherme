@@ -1,6 +1,6 @@
 # 😉 Guilherme Macario
 
-**'Desenvolvedor na graduação'**
+**'Desenvolvedor na graduação'** 
 
 Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grande, Paraiba, Atualmente estou cursando Ciência da computação na Universidade Federal de Campina Grande UFCG, desde pequeno sou apaixonado por tecnologia, e meu primeiro contato foi um notebook bem antigo.
 
