@@ -72,5 +72,5 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&theme=radical&layout=compact&langs_count=9&cache_bust=1" 
   />
-</p>
+</p> 
 
