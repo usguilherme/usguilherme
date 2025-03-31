@@ -5,13 +5,13 @@
 Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grande, Paraiba, Atualmente estou cursando Ciência da computação na Universidade Federal de Campina Grande UFCG, desde pequeno sou apaixonado por tecnologia, e meu primeiro contato foi um notebook bem antigo.
 
 <a href="https://github.com/usguilherme?tab=followers">
-         <img alt="Seguidores" title="Me sigua no Github" src="https://custom-icon-badges.demolab.com/github/followers/usguilherme?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/></a>
-      <a href="https://github.com/usguilherme?tab=repositories&sort=stargazers">
-         <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/usguilherme?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+         <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/usguilherme?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/>
+</a>
+<a href="https://github.com/usguilherme?tab=repositories&sort=stargazers">
+         <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/usguilherme?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
 
 ---
-
 
 ### 🤖 Línguagens e Tecnologias
 
@@ -72,5 +72,4 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&theme=radical&layout=compact&langs_count=9&cache_bust=1" 
   />
-</p> 
-
+</p>
