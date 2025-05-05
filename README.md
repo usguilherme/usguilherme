@@ -30,10 +30,10 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
 
 <p>
   <a href="mailto:macarioguilherme8534@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/E--mail-black?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/5583993043551" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
