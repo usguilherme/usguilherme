@@ -43,8 +43,8 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
 
 <div style="display: flex; flex-wrap: wrap;">
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
-       src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&cache_bust=2"/>
+       src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&cache_bust=2"/>
   
   <img align="left" alt="GitHub Top Languages" height="200" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&theme=radical&layout=compact&langs_count=9&cache_bust=2"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&theme=dark&layout=compact&langs_count=9&cache_bust=2"/>
 </div>
