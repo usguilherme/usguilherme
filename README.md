@@ -2,7 +2,7 @@
 
 **'Desenvolvedor na graduação'** 
 
-Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grande, Paraiba. Atualmente estou cursando Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Seja bem vindo ao meu perfil do GitHub.
+Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grande, Paraíba. Atualmente estou cursando Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Seja bem-vindo ao meu perfil do GitHub.
 
 <a href="https://github.com/usguilherme?tab=followers">
   <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/usguilherme?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/>
@@ -25,6 +25,13 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
 
 <br/>
 <br/>
+
+---
+
+### 📫 Contato
+
+- ✉️ **E-mail:** macarioguilherme8534@gmail.com  
+- 📱 **WhatsApp:** (83) 99304-3551  
 
 ---
 
