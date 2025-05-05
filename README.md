@@ -16,7 +16,7 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
 ### 🤖 Linguagens e Tecnologias
 
 <div>
-  <img align="left" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="left" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
   <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="left" alt="Ruby" title="Ruby" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"/>
 </div>
