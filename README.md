@@ -35,6 +35,12 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
   <a href="https://wa.me/5583993043551" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  <a href="https://discord.com/users/guilherme_macario" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gnmacario_/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
