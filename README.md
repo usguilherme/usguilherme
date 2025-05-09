@@ -13,6 +13,13 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
 
 ---
 
+### 👨‍💻 Sobre Mim
+
+Tenho interesse em **desenvolvimento back-end**, com foco em linguagens como **Java**, **Ruby** e **Python**. Atualmente estou aprofundando meus conhecimentos em **Estrutura de Dados com Java**, e busco construir soluções eficientes e escaláveis.  
+Sou graduando em Ciência da Computação pela UFCG e estou sempre em busca de novos desafios que me permitam crescer como desenvolvedor e aprender tecnologias relevantes para o mercado.
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <div>
@@ -23,6 +30,13 @@ Me chamo Guilherme Macario, tenho 19 anos de idade, sou natural de Campina Grand
 
 <br/>
 <br/>
+
+---
+
+### 🕒 Minha Jornada
+
+- 📅 **2023.2** – Iniciei minha graduação em Ciência da Computação na UFCG e comecei meus estudos em **Python**, desenvolvendo pequenos projetos e scripts para automação e lógica de programação.
+- 📅 **2024.2** – Avancei para o estudo de **Java**, com foco em orientação a objetos, estruturas de dados e desenvolvimento de aplicações mais robustas.
 
 ---
 
