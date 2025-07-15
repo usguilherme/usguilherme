@@ -36,7 +36,7 @@ Estou sempre em busca de novos desafios que me permitam crescer como desenvolved
 ### 🕒 Minha Jornada
 
 - 📅 **2023.2** – Iniciei minha graduação em Ciência da Computação na UFCG e comecei meus estudos em **Python**, desenvolvendo pequenos projetos e scripts para automação e lógica de programação.
-- 📅 **2024.2** – Avancei para o estudo de **Java**, com foco em orientação a objetos, estruturas de dados e desenvolvimento de aplicações mais robustas.
+- 📅 **2024.2** – Avancei para o estudo de **Java**, com foco em orientação a objetos, estruturas de dados.
 
 ---
 
