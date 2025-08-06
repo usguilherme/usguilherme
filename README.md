@@ -15,7 +15,7 @@ Me chamo Guilherme Macario, tenho 20 anos de idade, sou natural de Campina Grand
 
 ### 👨‍💻 Sobre Mim
 
-Tenho interesse em **desenvolvimento back-end**, com foco em linguagens como **Java**, **Ruby** e **Python**. Atualmente estou aprofundando meus conhecimentos em **Estrutura de Dados com Java**, e busco construir soluções eficientes e escaláveis.  
+Tenho interesse em **desenvolvimento back-end**, com foco em linguagens como **Java** e **Python**. Atualmente estou aprofundando meus conhecimentos em **Estrutura de Dados com Java**, e busco construir soluções eficientes e escaláveis.  
 Estou sempre em busca de novos desafios que me permitam crescer como desenvolvedor e aprender tecnologias relevantes para o mercado.
 
 ---
@@ -25,8 +25,7 @@ Estou sempre em busca de novos desafios que me permitam crescer como desenvolved
 <div>
   <img align="left" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
   <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="left" alt="Ruby" title="Ruby" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"/>
-  <img align="left" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 </div>
 
 <br/>
