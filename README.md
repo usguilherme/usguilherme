@@ -23,12 +23,13 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 |--------|-----------|-------------|
 | [ComplementACAO](https://github.com/usguilherme/ComplementACAO) | Sistema de gerenciamento de atividades complementares para estudantes. | Java, JUnit |
 | [AgendaFácil](https://github.com/usguilherme/AgendaFacil) | Projeto acadêmico para gerenciar eventos e participantes. | Java |
+| [CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair) | Projeto back-end para salão de beleza, com cadastro de clientes, serviços e agendamentos. | Java |
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: guilhermeprofissionalmacario@gmail.com
+- 📧 Email: guilhermenmacario8534@gmail.com  
 - 📱 WhatsApp: +55 83 99304-3551  
 - 📸 Instagram: [@gnmacario_](https://www.instagram.com/gnmacario_/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-macario/)
