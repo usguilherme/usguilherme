@@ -36,7 +36,7 @@ Estou sempre em busca de novos desafios que me permitam crescer como desenvolved
 
 ### 🕒 Minha Jornada
 
-- 📅 **2023.2** – Minha primeira experiência na faculdade foi com **Python**, linguagem com a qual construí uma base sólida em lógica de programação, estruturas de controle e algoritmos fundamentais — conhecimentos que se aplicam a qualquer linguagem de programação.  
+- 📅 **2023.2** – Minha primeira experiência na faculdade foi com **Python**, linguagem com a qual construí uma base sólida em lógica de programação, estruturas de controle e algoritmos fundamentais, conhecimentos que se aplicam a qualquer linguagem de programação.  
 - 📅 **2024.2** – Comecei meus estudos em **Java**, focando em orientação a objetos (POO), com aprofundamento em conceitos como polimorfismo, herança, encapsulamento e demais pilares da programação orientada a objetos.  
 - 📅 **2025.1** – Estou iniciando o estudo de **Estruturas de Dados**, incluindo pilhas, filas, listas ligadas (LinkedList), além de estruturas mais avançadas como tabelas hash, busca binária, árvores binárias de busca (BST) e algoritmos de ordenação.
 
