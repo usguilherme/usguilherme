@@ -29,7 +29,7 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 
 ## 📫 Contato
 
-- 📧 Email: guilhermenmacario8534@gmail.com  
+- 📧 Email: guilhermeprofissionalmacario@gmail.com  
 - 📱 WhatsApp: +55 83 99304-3551  
 - 📸 Instagram: [@gnmacario_](https://www.instagram.com/gnmacario_/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-macario/)
