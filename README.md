@@ -36,8 +36,9 @@ Estou sempre em busca de novos desafios que me permitam crescer como desenvolved
 
 ### 🕒 Minha Jornada
 
-- 📅 **2023.2** – Iniciei minha graduação em Ciência da Computação na UFCG e comecei meus estudos em **Python**, desenvolvendo pequenos projetos e scripts para automação e lógica de programação.
-- 📅 **2024.2** – Avancei para o estudo de **Java**, com foco em orientação a objetos, estruturas de dados.
+- 📅 **2023.2** – Minha primeira experiência na faculdade foi com **Python**, linguagem com a qual construí uma base sólida em lógica de programação, estruturas de controle e algoritmos fundamentais — conhecimentos que se aplicam a qualquer linguagem de programação.  
+- 📅 **2024.2** – Comecei meus estudos em **Java**, focando em orientação a objetos (POO), com aprofundamento em conceitos como polimorfismo, herança, encapsulamento e demais pilares da programação orientada a objetos.  
+- 📅 **2025.1** – Estou iniciando o estudo de **Estruturas de Dados**, incluindo pilhas, filas, listas ligadas (LinkedList), além de estruturas mais avançadas como tabelas hash, busca binária, árvores binárias de busca (BST) e algoritmos de ordenação.
 
 ---
 
