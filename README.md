@@ -15,8 +15,7 @@ Me chamo Guilherme Macario, tenho 20 anos de idade, sou natural de Campina Grand
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Meu foco é no desenvolvimento back-end, com ênfase em Java e Python. Atualmente, estou estudando Estrutura de Dados em Java e me aprofundando em ferramentas essenciais como Git e SQL. Estou lendo o livro Use a Cabeça! Java para fortalecer minha base em orientação a objetos e boas práticas de programação.
-Tenho interesse em crescer na área através de experiências práticas, projetos e constante aprendizado.
+Desenvolvedor back-end em formação, com foco em Java e Python. Estudo Estrutura de Dados em Java, Git e SQL. Busco evoluir com projetos, prática e aprendizado constante. Atualmente, lendo Use a Cabeça! Java para reforçar orientação a objetos e boas práticas.
 
 ---
 
