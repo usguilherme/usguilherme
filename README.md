@@ -1,48 +1,38 @@
-<h1 align="center">👋 Olá, eu sou o Guilherme Macario</h1>
+# 👨‍💻 Guilherme Macario
 
-<p align="center">
-  Desenvolvedor Back-End em formação | Java & Python | Estudante de Ciência da Computação na UFCG 🎓
-</p>
+**Desenvolvedor na graduação | Back-End | Java & Python**
 
----
+Me chamo Guilherme Macario, tenho 20 anos e sou natural de Campina Grande - PB. Atualmente, curso **Ciência da Computação** na **Universidade Federal de Campina Grande (UFCG)**.
 
-### 📍 Sobre mim
+Sou apaixonado por desenvolvimento back-end, com foco em **Java** e **Python**. Estou em constante aprendizado e atualmente estudo **Estrutura de Dados em Java**, além de me aprofundar em ferramentas como **Git** e **SQL**. Também estou lendo o livro *Use a Cabeça! Java* para reforçar minha base em **Orientação a Objetos** e **boas práticas de programação**.
 
-- 🔭 Atualmente estudando **Estrutura de Dados em Java**, **SQL** e **Git**
-- 📚 Lendo o livro _"Use a Cabeça! Java"_ para aprofundar meus conhecimentos em orientação a objetos
-- 💡 Interesso-me por experiências que me ajudem a evoluir como desenvolvedor
-- 🌱 Buscando sempre aprender mais sobre boas práticas, padrões de projeto e sistemas escaláveis
-- 📍 Natural de Campina Grande – PB
+Tenho interesse em crescer na área através de **experiências práticas**, **projetos** e **colaboração com outros desenvolvedores**.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-- Linguagens: `Java`, `Python`
-- Banco de dados: `SQL` (MySQL, PostgreSQL)
-- Versionamento: `Git` & `GitHub`
-- Outros: `VS Code`, `IntelliJ IDEA`, `Linux`, `Windows`
+## 💻 Tecnologias e Ferramentas
+- 🧠 Linguagens: **Java**, **Python**
+- 🗃️ Banco de Dados: **SQL**
+- ⚙️ Ferramentas: **Git**, **GitHub**, **VSCode**, **IntelliJ**
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Projetos em Destaque
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&langs_count=7&theme=default"/>
-</p>
-
----
-
-### 📫 Como me encontrar
-
-- GitHub: [github.com/usguilherme](https://github.com/usguilherme)
-- LinkedIn: [linkedin.com/in/guilherme-nunes-macario](https://linkedin.com/in/guilherme-nunes-macario)
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [ComplementACAO](https://github.com/usguilherme/ComplementACAO) | Sistema de gerenciamento de atividades complementares para estudantes. | Java, JUnit |
+| [AgendaFácil](https://github.com/usguilherme/AgendaFacil) | Projeto acadêmico para gerenciar eventos e participantes. | Java |
 
 ---
 
-### 🚀 Objetivo
+## 📫 Contato
 
-Meu foco é crescer na área de desenvolvimento Back-End, construindo soluções robustas e eficientes. Estou sempre disposto a aprender e contribuir em projetos que desafiem meus conhecimentos.
+- 📧 Email: guilhermenmacario8534@gmail.com  
+- 📱 WhatsApp: +55 83 99304-3551  
+- 📸 Instagram: [@gnmacario_](https://www.instagram.com/gnmacario_/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-macario/)
 
 ---
+
+> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
