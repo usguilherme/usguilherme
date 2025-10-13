@@ -18,15 +18,24 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos Pessoais
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [HabitTracker](https://github.com/usguilherme/HabitTracker) | Aplicativo para monitorar hábitos diários, acompanhar rotina e manter consistência. | Java, Python |
-| [Data_structures_java](https://github.com/usguilherme/Data_structures_java) | Conteúdo acadêmico de Estrutura de Dados estudado na universidade, com implementação de listas, pilhas, filas, árvores e tabelas hash. | Java |
+| Projeto | Descrição | Tecnologias | Demo/Imagem |
+|--------|-----------|-------------|-------------|
+| [HabitTracker](https://github.com/usguilherme/HabitTracker) | Aplicativo para monitorar hábitos diários, acompanhar rotina e manter consistência. | Java, Python | ![Exemplo](link_para_screenshot.gif) |
+
+---
+
+## 🎓 Projetos Acadêmicos
+
+| Projeto | Descrição | Tecnologias | Demo/Imagem |
+|--------|-----------|-------------|-------------|
+| [Data_structures_java](https://github.com/usguilherme/Data_structures_java) | Conteúdo acadêmico de Estrutura de Dados estudado na universidade, com implementação de listas, pilhas, filas, árvores e tabelas hash. | Java | ![Exemplo](link_para_screenshot.gif) |
+| [GustavoGuanabara](https://github.com/usguilherme/GustavoGuanabara) | Repositório para armazenar os cursos que estou estudando atualmente. | Diversos | ![Exemplo](link_para_screenshot.gif) |
 
 ---
 
