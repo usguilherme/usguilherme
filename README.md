@@ -27,6 +27,7 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 | Projeto | Descrição | Tecnologias | Demo/Imagem |
 |--------|-----------|-------------|-------------|
 | [HabitTracker](https://github.com/usguilherme/HabitTracker) | Aplicativo para monitorar hábitos diários, acompanhar rotina e manter consistência. | Java, Python | ![Exemplo](link_para_screenshot.gif) |
+| [CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair) | Projeto em desenvolvimento. | Java | ![Exemplo](link_para_screenshot.gif) |
 
 ---
 
