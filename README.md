@@ -4,7 +4,7 @@
 
 Me chamo Guilherme Macario, tenho 20 anos e sou natural de Campina Grande - PB. Atualmente, curso **Ciência da Computação** na **Universidade Federal de Campina Grande (UFCG)**.
 
-Sou apaixonado por desenvolvimento back-end, com foco em **Java** e **Python**. Estou em constante aprendizado e atualmente estudo **Estrutura de Dados em Java**, além de me aprofundar em ferramentas como **Git** e **SQL**. Também estou lendo o livro *Use a Cabeça! Java* para reforçar minha base em **Orientação a Objetos** e **boas práticas de programação**.
+Tenho interesse por desenvolvimento back-end, com foco em **Java** e **Python**. Estou em constante aprendizado e atualmente estudo **Estrutura de Dados em Java**, além de me aprofundar em ferramentas como **Git** e **SQL**. Também estou lendo o livro *Use a Cabeça! Java* para reforçar minha base em **Orientação a Objetos** e **boas práticas de programação**.
 
 Tenho interesse em crescer na área através de **experiências práticas**, **projetos** e **colaboração com outros desenvolvedores**.
 
