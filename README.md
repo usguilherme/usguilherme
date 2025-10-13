@@ -26,6 +26,7 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [HabitTracker](https://github.com/usguilherme/HabitTracker) | Aplicativo para monitorar hábitos diários, acompanhar rotina e manter consistência. | Java, Python |
+| [Data_structures_java](https://github.com/usguilherme/Data_structures_java) | Conteúdo acadêmico de Estrutura de Dados estudado na universidade, com implementação de listas, pilhas, filas, árvores e tabelas hash. | Java |
 
 ---
 
