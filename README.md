@@ -11,9 +11,13 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 ---
 
 ## 💻 Tecnologias e Ferramentas
-- 🧠 Linguagens: **Java**, **Python**
-- 🗃️ Banco de Dados: **SQL**
-- ⚙️ Ferramentas: **Git**, **GitHub**, **VSCode**, **IntelliJ**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
@@ -21,7 +25,15 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [HabitTracker](https://github.com/usguilherme/HabitTracker) | Aplicativo para monitorar hábitos diários, acompanhar rotina e manter consistência. | Java, [ou Python se aplicável] | 
+| [HabitTracker](https://github.com/usguilherme/HabitTracker) | Aplicativo para monitorar hábitos diários, acompanhar rotina e manter consistência. | Java, Python |
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark)
 
 ---
 
