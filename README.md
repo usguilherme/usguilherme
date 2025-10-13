@@ -21,7 +21,7 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair) | Projeto back-end para salão de beleza, com cadastro de clientes, serviços e agendamentos. | Java | 
+| [HabitTracker](https://github.com/usguilherme/HabitTracker) | Aplicativo para monitorar hábitos diários, acompanhar rotina e manter consistência. | Java, [ou Python se aplicável] | 
 
 ---
 
