@@ -12,15 +12,35 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 
 ## 💻 Tecnologias e Ferramentas
 
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com/)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-[![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)](https://www.postgresql.org/)
-[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
-[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/)
-[![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg)](https://www.jetbrains.com/idea/)
-[![Eclipse IDE](https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg)](https://www.eclipse.org/)
-[![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)](https://spring.io/projects/spring-boot)
+<p align="left">
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.eclipse.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
