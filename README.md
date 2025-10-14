@@ -19,6 +19,7 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 
@@ -29,7 +30,6 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 | [HabitTracker](https://github.com/usguilherme/HabitTracker) | Aplicativo para monitorar hábitos diários, acompanhar rotina e manter consistência. | Java | ![Exemplo](link_para_screenshot.gif) |
 | [CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair) | Sistema de gerenciamento de clientes de salão de beleza. Permite cadastrar clientes comuns e VIP, registrar gastos, calcular descontos e atualizar informações. | Java | ![Exemplo](link_para_screenshot.gif) |
 
-
 ---
 
 ## 🎓 Projetos Acadêmicos
@@ -38,6 +38,7 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 |--------|-----------|-------------|-------------|
 | [Data_structures_java](https://github.com/usguilherme/Data_structures_java) | Conteúdo acadêmico de Estrutura de Dados estudado na universidade, com implementação de listas, pilhas, filas, árvores e tabelas hash. | Java | ![Exemplo](link_para_screenshot.gif) |
 | [GustavoGuanabara](https://github.com/usguilherme/GustavoGuanabara) | Repositório para armazenar os cursos que estou estudando atualmente. | Diversos | ![Exemplo](link_para_screenshot.gif) |
+| [Java-com-Spring-Boot](https://github.com/usguilherme/Java-com-Spring-Boot) | Projeto desenvolvido durante o **curso de Java e Spring Boot da Rocketseat**. Permite criar aplicações back-end estruturadas, aplicando práticas de orientação a objetos e arquitetura MVC. | Java, Spring Boot | ![Exemplo](link_para_screenshot.gif) |
 
 ---
 
