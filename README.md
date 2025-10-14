@@ -16,14 +16,14 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
   <a href="https://www.java.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="vertical-align: middle;"/>
   </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" style="vertical-align: middle;"/>
+  </a>
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="vertical-align: middle;"/>
   </a>
   <a href="https://www.postgresql.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" style="vertical-align: middle;"/>
   </a>
   <a href="https://github.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" style="vertical-align: middle;"/>
@@ -31,17 +31,13 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
   <a href="https://code.visualstudio.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-  <a href="https://www.jetbrains.com/idea/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
   <a href="https://www.eclipse.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" style="vertical-align: middle;"/>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40" style="vertical-align: middle;"/>
   </a>
 </p>
-
 
 ---
 
