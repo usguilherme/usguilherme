@@ -37,7 +37,7 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
 | Projeto | Descrição | Tecnologias | Demo/Imagem |
 |--------|-----------|-------------|-------------|
 | [Data_structures_java](https://github.com/usguilherme/Data_structures_java) | Conteúdo acadêmico de Estrutura de Dados estudado na universidade, com implementação de listas, pilhas, filas, árvores e tabelas hash. | Java | ![Exemplo](link_para_screenshot.gif) |
-| [GustavoGuanabara](https://github.com/usguilherme/GustavoGuanabara) | Repositório para armazenar os cursos que estou estudando atualmente. | Diversos | ![Exemplo](link_para_screenshot.gif) |
+| [GustavoGuanabara](https://github.com/usguilherme/GustavoGuanabara) | Repositório para armazenar desafios do curso Gustavo Guanabara. | Python | ![Exemplo](link_para_screenshot.gif) |
 | [Java-com-Spring-Boot](https://github.com/usguilherme/Java-com-Spring-Boot) | Projeto desenvolvido durante o **curso de Java e Spring Boot da Rocketseat**. Permite criar aplicações back-end estruturadas, aplicando práticas de orientação a objetos e arquitetura MVC. | Java, Spring Boot | ![Exemplo](link_para_screenshot.gif) |
 
 ---
