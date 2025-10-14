@@ -37,6 +37,9 @@ Tenho interesse em crescer na área através de **experiências práticas**, **p
   <a href="https://www.jetbrains.com/idea/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40" style="vertical-align: middle;"/>
   </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" height="40" style="vertical-align: middle;"/>
+  </a>
 </p>
 
 ---
