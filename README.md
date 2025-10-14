@@ -1,6 +1,6 @@
 # 👨‍💻 Guilherme Macario
 
-**Desenvolvedor na graduação | Back-End | Java & Python**
+**Desenvolvedor na graduação | Back-End |
 
 Me chamo Guilherme Macario, tenho 20 anos e sou natural de Campina Grande - PB. Atualmente, curso **Ciência da Computação** na **Universidade Federal de Campina Grande (UFCG)**.
 
