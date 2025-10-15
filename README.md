@@ -47,6 +47,7 @@ Atualmente curso **Ciência da Computação** na **UFCG**. Tenho interesse em **
 |--------|-----------|-------------|------|
 | [HabitTracker](https://github.com/usguilherme/HabitTracker) | Aplicativo para monitorar hábitos diários. | Java | 🔗 |
 | [CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair) | Sistema de gerenciamento de clientes de salão de beleza. | Java | 🔗 |
+| [MeuRem-dio](https://github.com/usguilherme/MeuRem-dio) | Lembrete de medicamentos simples em Python. Permite adicionar, listar e marcar medicamentos como tomados, além de exibir lembretes automáticos. Ideal para praticar lógica, listas e dicionários. | Python | 🔗 |
 
 ---
 
