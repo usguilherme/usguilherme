@@ -54,7 +54,7 @@ Atualmente curso **Ciência da Computação** na **UFCG**. Tenho interesse em **
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|-------------|------|
-| [Curso PostgreSQL - CodandoSimples](https://youtu.be/o8ATzYcVp08?si=UQLRnmNA_1UvPD8E) | Estudo de PostgreSQL com o canal CodandoSimples. | PostgreSQL | 🔗 |
+| [Curso MySQL - Curso-Em-Video](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh) | Estudo de MySQL com o canal do Gustavo Guanabara. | MySQL | 🔗 |
 | [Data_structures_java](https://github.com/usguilherme/Data_structures_java) | Estrutura de Dados: listas, pilhas, filas, árvores e tabelas hash. | Java | 🔗 |
 | [GustavoGuanabaraPython](https://github.com/usguilherme/GustavoGuanabaraPython) | Exercícios do curso de Python do Gustavo Guanabara. | Python | 🔗 |
 | [Java-com-Spring-Boot](https://github.com/usguilherme/Java-com-Spring-Boot) | Projetos de Java com Spring Boot. | Java, Spring Boot | 🔗 |
