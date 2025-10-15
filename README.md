@@ -66,7 +66,7 @@ Atualmente curso **Ciência da Computação** na **UFCG**. Tenho interesse em **
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&count_private=true&cache_seconds=600)
 
 ### 💻 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&cache_seconds=600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&cache_seconds=600) 
 
 ---
 
