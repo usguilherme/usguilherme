@@ -1,69 +1,73 @@
-# 👨‍💻 Guilherme Macario
+<div align="center">
+  <h1>Guilherme Macario</h1>
+  <h3>Desenvolvedor Back-End | Graduando em Ciência da Computação</h3>
+  
+  <p>
+    📍 Campina Grande, PB | 🎓 UFCG
+  </p>
+  
+  <p align="center">
+    Graduando em <b>Ciência da Computação</b> pela Universidade Federal de Campina Grande (UFCG).<br>
+    Meu foco principal é o desenvolvimento <b>Back-End</b> com <b>Java</b> e <b>Python</b>.<br>
+    Atualmente, estou expandindo minha stack com <b>JavaScript</b> e <b>SQL</b>, além de aprofundar estudos em <br>
+    <b>Estrutura de Dados</b>, <b>Git</b> e <b>Arquitetura de Software</b>.
+  </p>
+</div>
 
-**Desenvolvedor na graduação | Back-End**
+<br>
 
-Olá! Me chamo **Guilherme Macario**, tenho 20 anos e sou natural de **Campina Grande - PB**.
-Atualmente curso **Ciência da Computação** na **UFCG**.
+<div align="center">
+  <h2>💻 Stack Tecnológico</h2>
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
-Tenho forte interesse em desenvolvimento **Back-End** com **Java** e **Python**. No momento, estou focado em aprofundar meus conhecimentos em **JavaScript** e **SQL**, além de manter estudos constantes em **Estrutura de Dados**, **Git** e boas práticas de **Orientação a Objetos**.
+<br>
 
----
+## 🚀 Projetos em Destaque
 
-## 💻 Tecnologias e Ferramentas
+| Projeto | Descrição | Stack | Código |
+| :--- | :--- | :---: | :---: |
+| **HabitTracker** | Aplicação para monitoramento e gestão de hábitos diários, focada em produtividade. | `Java` | [🔗](https://github.com/usguilherme/HabitTracker) |
+| **CassiaNunesHair** | Sistema de gestão para salão de beleza (agendamento e cadastro de clientes). | `Java` | [🔗](https://github.com/usguilherme/CassiaNunesHair) |
+| **MeuRemédio** | Assistente pessoal para controle de medicação com alertas automáticos. | `Python` | [🔗](https://github.com/usguilherme/MeuRem-dio) |
 
-<p align="left">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL (SQL)" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
+<br>
 
----
+## 📚 Desenvolvimento Acadêmico
 
-## 🚀 Projetos Pessoais
+| Repositório | Tópico de Estudo | Stack | Acesso |
+| :--- | :--- | :---: | :---: |
+| **LabEstruturaDadosJava** | Implementações fundamentais: Listas, Pilhas, Filas, Árvores e Hashmaps. | `Java` | [🔗](https://github.com/usguilherme/LabEstruturaDadosJava) |
+| **Curso MySQL** | Exercícios práticos e modelagem de dados (Curso em Vídeo). | `SQL` | [🔗](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh) |
+| **Python Guanabara** | Resolução de algoritmos e lógica de programação. | `Python` | [🔗](https://github.com/usguilherme/GustavoGuanabaraPython) |
 
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :--- | :---: |
-| **[HabitTracker](https://github.com/usguilherme/HabitTracker)** | Aplicativo para monitoramento e gestão de hábitos diários. | Java | [🔗](https://github.com/usguilherme/HabitTracker) |
-| **[CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema completo para gerenciamento de clientes e agendamentos em salão de beleza. | Java | [🔗](https://github.com/usguilherme/CassiaNunesHair) |
-| **[MeuRem-dio](https://github.com/usguilherme/MeuRem-dio)** | Lembrete de medicamentos com funcionalidades de cadastro, listagem e alertas automáticos. | Python | [🔗](https://github.com/usguilherme/MeuRem-dio) |
+<br>
 
----
+<div align="center">
+  <h2>📈 Métricas do GitHub</h2>
+  
+  <table border="0">
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Guilherme's Stats" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🎓 Projetos e Estudos Acadêmicos
+<br>
 
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :--- | :---: |
-| **[Curso MySQL](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh)** | Acompanhamento e exercícios práticos do curso de MySQL (Curso em Vídeo). | MySQL, SQL | [🔗](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh) |
-| **[LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava)** | Implementação de estruturas de dados: Listas, Pilhas, Filas, Árvores e Hashmaps. | Java | [🔗](https://github.com/usguilherme/LabEstruturaDadosJava) |
-| **[Python Guanabara](https://github.com/usguilherme/GustavoGuanabaraPython)** | Resolução de exercícios e projetos do curso de Python do Gustavo Guanabara. | Python | [🔗](https://github.com/usguilherme/GustavoGuanabaraPython) |
+<div align="center">
+  <h2>📫 Contato Profissional</h2>
 
----
-
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark)
-
----
-
-## 📫 Contato
-
-<div align="left">
   <a href="mailto:guilhermeprofissionalmacario@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -76,8 +80,8 @@ Tenho forte interesse em desenvolvimento **Back-End** com **Java** e **Python**.
   <a href="https://www.instagram.com/gnmacario_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
+  <br><br>
+  
+  > *"O sucesso é a soma de pequenos esforços repetidos dia após dia."* — **Robert Collier**
 </div>
-
----
-
-> _“O sucesso é a soma de pequenos esforços repetidos dia após dia.”_ – **Robert Collier**
