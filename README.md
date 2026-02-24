@@ -49,9 +49,8 @@ Tenho forte interesse em desenvolvimento **Back-End** com **Java** e **Python**.
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :---: |
 | **[Curso MySQL](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh)** | Acompanhamento e exercícios práticos do curso de MySQL (Curso em Vídeo). | MySQL, SQL | [🔗](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh) |
-| **[Data Structures Java](https://github.com/usguilherme/Data_structures_java)** | Implementação de estruturas de dados: Listas, Pilhas, Filas, Árvores e Hashmaps. | Java | [🔗](https://github.com/usguilherme/Data_structures_java) |
+| **[LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava)** | Implementação de estruturas de dados: Listas, Pilhas, Filas, Árvores e Hashmaps. | Java | [🔗](https://github.com/usguilherme/LabEstruturaDadosJava) |
 | **[Python Guanabara](https://github.com/usguilherme/GustavoGuanabaraPython)** | Resolução de exercícios e projetos do curso de Python do Gustavo Guanabara. | Python | [🔗](https://github.com/usguilherme/GustavoGuanabaraPython) |
-| **[Java Spring Boot](https://github.com/usguilherme/Java-com-Spring-Boot)** | Repositório de estudos e projetos desenvolvidos com Spring Boot. | Java, Spring Boot | [🔗](https://github.com/usguilherme/Java-com-Spring-Boot) |
 
 ---
 
