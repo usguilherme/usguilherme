@@ -2,40 +2,51 @@
 
 **Desenvolvedor na graduação | Back-End**
 
-Me chamo Guilherme Macario, tenho 20 anos e sou natural de Campina Grande - PB.  
-Atualmente curso **Ciência da Computação** na **UFCG**. Tenho interesse em **Java**, **Python**, **Git**, **SQL** e estou constantemente estudando **Estrutura de Dados** e boas práticas de **Orientação a Objetos**.
+Olá! Me chamo **Guilherme Macario**, tenho 20 anos e sou natural de **Campina Grande - PB**.
+Atualmente curso **Ciência da Computação** na **UFCG**.
+
+Tenho forte interesse em desenvolvimento **Back-End** com **Java** e **Python**. No momento, estou focado em aprofundar meus conhecimentos em **JavaScript** e **SQL**, além de manter estudos constantes em **Estrutura de Dados**, **Git** e boas práticas de **Orientação a Objetos**.
 
 ---
 
 ## 💻 Tecnologias e Ferramentas
 
 <p align="left">
-  <a href="https://www.java.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.eclipse.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.jetbrains.com/idea/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   </a>
 </p>
 
@@ -44,41 +55,50 @@ Atualmente curso **Ciência da Computação** na **UFCG**. Tenho interesse em **
 ## 🚀 Projetos Pessoais
 
 | Projeto | Descrição | Tecnologias | Link |
-|--------|-----------|-------------|------|
-| [HabitTracker](https://github.com/usguilherme/HabitTracker) | Aplicativo para monitorar hábitos diários. | Java | 🔗 |
-| [CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair) | Sistema de gerenciamento de clientes de salão de beleza. | Java | 🔗 |
-| [MeuRem-dio](https://github.com/usguilherme/MeuRem-dio) | Lembrete de medicamentos simples em Python. Permite adicionar, listar e marcar medicamentos como tomados, além de exibir lembretes automáticos. Ideal para praticar lógica, listas e dicionários. | Python | 🔗 |
+| :--- | :--- | :--- | :---: |
+| **[HabitTracker](https://github.com/usguilherme/HabitTracker)** | Aplicativo para monitoramento e gestão de hábitos diários. | Java | [🔗](https://github.com/usguilherme/HabitTracker) |
+| **[CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema completo para gerenciamento de clientes e agendamentos em salão de beleza. | Java | [🔗](https://github.com/usguilherme/CassiaNunesHair) |
+| **[MeuRem-dio](https://github.com/usguilherme/MeuRem-dio)** | Lembrete de medicamentos com funcionalidades de cadastro, listagem e alertas automáticos. | Python | [🔗](https://github.com/usguilherme/MeuRem-dio) |
 
 ---
 
-## 🎓 Projetos Acadêmicos
+## 🎓 Projetos e Estudos Acadêmicos
 
 | Projeto | Descrição | Tecnologias | Link |
-|--------|-----------|-------------|------|
-| [Curso MySQL - Curso-Em-Video](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh) | Estudo de MySQL com o canal do Gustavo Guanabara. | MySQL | 🔗 |
-| [Data_structures_java](https://github.com/usguilherme/Data_structures_java) | Estrutura de Dados: listas, pilhas, filas, árvores e tabelas hash. | Java | 🔗 |
-| [GustavoGuanabaraPython](https://github.com/usguilherme/GustavoGuanabaraPython) | Exercícios do curso de Python do Gustavo Guanabara. | Python | 🔗 |
-| [Java-com-Spring-Boot](https://github.com/usguilherme/Java-com-Spring-Boot) | Projetos de Java com Spring Boot. | Java, Spring Boot | 🔗 |
+| :--- | :--- | :--- | :---: |
+| **[Curso MySQL](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh)** | Acompanhamento e exercícios práticos do curso de MySQL (Curso em Vídeo). | MySQL, SQL | [🔗](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh) |
+| **[Data Structures Java](https://github.com/usguilherme/Data_structures_java)** | Implementação de estruturas de dados: Listas, Pilhas, Filas, Árvores e Hashmaps. | Java | [🔗](https://github.com/usguilherme/Data_structures_java) |
+| **[Python Guanabara](https://github.com/usguilherme/GustavoGuanabaraPython)** | Resolução de exercícios e projetos do curso de Python do Gustavo Guanabara. | Python | [🔗](https://github.com/usguilherme/GustavoGuanabaraPython) |
+| **[Java Spring Boot](https://github.com/usguilherme/Java-com-Spring-Boot)** | Repositório de estudos e projetos desenvolvidos com Spring Boot. | Java, Spring Boot | [🔗](https://github.com/usguilherme/Java-com-Spring-Boot) |
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-### 📈 Estatísticas do perfil
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&count_private=true&cache_seconds=600)
-
-### 💻 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&cache_seconds=600) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&count_private=true&cache_seconds=600" alt="Estatísticas do GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&cache_seconds=600" alt="Linguagens mais usadas" height="180"/>
+</div>
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: guilhermeprofissionalmacario@gmail.com  
-- 📱 WhatsApp: +55 83 99304-3551  
-- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-macario/)  
-- 📸 Instagram: [@gnmacario_](https://www.instagram.com/gnmacario_/)
+<div align="left">
+  <a href="mailto:guilhermeprofissionalmacario@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/5583993043551">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-macario/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/gnmacario_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
 ---
 
-> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
+> _“O sucesso é a soma de pequenos esforços repetidos dia após dia.”_ – **Robert Collier**
