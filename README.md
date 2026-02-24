@@ -49,6 +49,7 @@ Busco construir software que seja claro, bem estruturado e fácil de manter. Meu
 
 | Repositório | Tópico | Tecnologia |
 |:------------|:-------|:----------:|
+| [**Full Stack Open**](https://github.com/usguilherme/fullstackopen) | Imersão em JavaScript Moderno, React, Node.js e GraphQL (University of Helsinki) | `JavaScript` |
 | [**LabEstruturaDadosJava**](https://github.com/usguilherme/LabEstruturaDadosJava) | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps | `Java` |
 | [**Curso MySQL**](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh) | Exercícios práticos e modelagem de dados (Curso em Vídeo) | `SQL` |
 | [**Python Guanabara**](https://github.com/usguilherme/GustavoGuanabaraPython) | Algoritmos e lógica de programação | `Python` |
