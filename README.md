@@ -56,10 +56,8 @@ Tenho forte interesse em desenvolvimento **Back-End** com **Java** e **Python**.
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&count_private=true&cache_seconds=600" alt="Estatísticas do GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&cache_seconds=600" alt="Linguagens mais usadas" height="180"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark)
 
 ---
 
