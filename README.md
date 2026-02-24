@@ -1,79 +1,73 @@
 <div align="center">
-  <h1>Guilherme Macario</h1>
-  <h3>Desenvolvedor Back-End | Graduando em Ciência da Computação</h3>
-  
-  <p>
-    📍 Campina Grande, PB | 🎓 UFCG
-  </p>
-  
-  <p>
-    Graduando em <b>Ciência da Computação</b> pela Universidade Federal de Campina Grande (UFCG).<br>
-    Meu foco principal é o desenvolvimento <b>Back-End</b> com <b>Java</b> e <b>Python</b>.<br>
-    Atualmente, estou expandindo minha stack com <b>JavaScript</b> e <b>SQL</b>, além de aprofundar estudos em <br>
-    <b>Estrutura de Dados</b>, <b>Git</b> e <b>Arquitetura de Software</b>.
-  </p>
+
+# Guilherme Macario
+
+**Desenvolvedor Back-End** · Graduando em Ciência da Computação · UFCG
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-macario/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5583993043551)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gnmacario_/)
+
 </div>
 
-<br>
+---
+
+## Sobre mim
+
+Sou estudante de **Ciência da Computação** na Universidade Federal de Campina Grande (UFCG), com foco em desenvolvimento **Back-End**. Tenho experiência prática com **Java** e **Python**, e atualmente estou ampliando minha stack com **JavaScript** e **SQL**.
+
+Busco construir software que seja claro, bem estruturado e fácil de manter. Meu aprendizado atual é centrado em **Estruturas de Dados**, **Arquitetura de Software** e boas práticas com **Git**.
+
+---
+
+## Stack Tecnológica
 
 <div align="center">
-  <h2>💻 Stack Tecnológico</h2>
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-<br>
+---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-| Projeto | Descrição | Stack | Código |
-| :--- | :--- | :---: | :---: |
-| **HabitTracker** | Aplicação para monitoramento e gestão de hábitos diários, focada em produtividade. | `Java` | [🔗](https://github.com/usguilherme/HabitTracker) |
-| **CassiaNunesHair** | Sistema de gestão para salão de beleza (agendamento e cadastro de clientes). | `Java` | [🔗](https://github.com/usguilherme/CassiaNunesHair) |
-| **MeuRemédio** | Assistente pessoal para controle de medicação com alertas automáticos. | `Python` | [🔗](https://github.com/usguilherme/MeuRem-dio) |
+| Projeto | Descrição | Tecnologia |
+|:--------|:----------|:----------:|
+| [**HabitTracker**](https://github.com/usguilherme/HabitTracker) | Aplicação para monitoramento e gestão de hábitos diários com foco em produtividade | `Java` |
+| [**CassiaNunesHair**](https://github.com/usguilherme/CassiaNunesHair) | Sistema de gestão para salão de beleza com agendamento e cadastro de clientes | `Java` |
+| [**MeuRemédio**](https://github.com/usguilherme/MeuRem-dio) | Assistente pessoal para controle de medicação com alertas automáticos | `Python` |
 
-<br>
+---
 
-## 📚 Desenvolvimento Acadêmico
+## Desenvolvimento Acadêmico
 
-| Repositório | Tópico de Estudo | Stack | Acesso |
-| :--- | :--- | :---: | :---: |
-| **LabEstruturaDadosJava** | Implementações fundamentais: Listas, Pilhas, Filas, Árvores e Hashmaps. | `Java` | [🔗](https://github.com/usguilherme/LabEstruturaDadosJava) |
-| **Curso MySQL** | Exercícios práticos e modelagem de dados (Curso em Vídeo). | `SQL` | [🔗](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh) |
-| **Python Guanabara** | Resolução de algoritmos e lógica de programação. | `Python` | [🔗](https://github.com/usguilherme/GustavoGuanabaraPython) |
+| Repositório | Tópico | Tecnologia |
+|:------------|:-------|:----------:|
+| [**LabEstruturaDadosJava**](https://github.com/usguilherme/LabEstruturaDadosJava) | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps | `Java` |
+| [**Curso MySQL**](https://youtu.be/Ofktsne-utM?si=R9VRbqAm6R053UJh) | Exercícios práticos e modelagem de dados (Curso em Vídeo) | `SQL` |
+| [**Python Guanabara**](https://github.com/usguilherme/GustavoGuanabaraPython) | Algoritmos e lógica de programação | `Python` |
 
-<br>
+---
+
+## Métricas
 
 <div align="center">
-  <h2>📈 Métricas do GitHub</h2>
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark" alt="Estatísticas"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark" alt="Linguagens"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&hide_border=true" />
+
 </div>
 
-<br>
+---
 
 <div align="center">
-  <h2>📫 Contato Profissional</h2>
 
-  <a href="mailto:guilhermeprofissionalmacario@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/5583993043551">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-macario/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/gnmacario_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  
-  <br><br>
-  
-  > *"O sucesso é a soma de pequenos esforços repetidos dia após dia."* — **Robert Collier**
+*Campina Grande, PB · Aberto a oportunidades e colaborações*
+
 </div>
