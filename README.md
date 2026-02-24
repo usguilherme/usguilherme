@@ -6,7 +6,7 @@
     📍 Campina Grande, PB | 🎓 UFCG
   </p>
   
-  <p align="center">
+  <p>
     Graduando em <b>Ciência da Computação</b> pela Universidade Federal de Campina Grande (UFCG).<br>
     Meu foco principal é o desenvolvimento <b>Back-End</b> com <b>Java</b> e <b>Python</b>.<br>
     Atualmente, estou expandindo minha stack com <b>JavaScript</b> e <b>SQL</b>, além de aprofundar estudos em <br>
@@ -50,17 +50,9 @@
 
 <div align="center">
   <h2>📈 Métricas do GitHub</h2>
-  
-  <table border="0">
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Guilherme's Stats" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark"/>
 </div>
 
 <br>
