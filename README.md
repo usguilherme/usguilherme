@@ -49,11 +49,10 @@ Busco construir software que seja claro, bem estruturado e fácil de manter. Meu
 
 | Repositório | Tópico | Tecnologia |
 |:------------|:-------|:----------:|
-
 | [**Curso MySQL**](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-) | Exercícios práticos e modelagem de dados (Curso em Vídeo) | `SQL` |
 | [**Full Stack Open**](https://github.com/usguilherme/fullstackopen) | Imersão em JavaScript Moderno, React, Node.js e GraphQL (University of Helsinki) | `JavaScript` |
 | [**Relational Database**](https://github.com/usguilherme/fcc-relational-database) | Certificação prática em PostgreSQL, Bash Scripting e Git (freeCodeCamp) | `SQL` |
-| [**LabEstruturaDadosJava**](https://github.com/usguilherme/LabEstruturaDadosJava) | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps | `Java` |
+| [**LabEstruturaDadosJava**](https://github.com/usguilherme/LabEstruturaDadosJava) | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps | `Java` |a) | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps | `Java` |
 
 ---
 
