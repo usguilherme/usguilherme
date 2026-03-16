@@ -2,10 +2,11 @@
 
 # Guilherme Macario
 
-**Desenvolvedor Back-End** · Graduando em Ciência da Computação · UFCG
+### Back-End Developer  
+**Computer Science Student · UFCG**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-macario/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5583993043551)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gnmacario_/)
 
@@ -13,15 +14,22 @@
 
 ---
 
-## Sobre mim
+# 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** na Universidade Federal de Campina Grande (UFCG), com foco em desenvolvimento **Back-End**. Tenho experiência prática com **Java** e **Python**, e atualmente estou ampliando minha stack com **JavaScript** e **SQL**.
+Sou estudante de **Ciência da Computação** na **Universidade Federal de Campina Grande (UFCG)**, com foco em desenvolvimento **Back-End**.
 
-Busco construir software que seja claro, bem estruturado e fácil de manter. Meu aprendizado atual é centrado em **Estruturas de Dados**, **Arquitetura de Software** e boas práticas com **Git**.
+Tenho experiência prática com **Java** e **Python**, e atualmente estou ampliando minha stack com **JavaScript** e **SQL**.
+
+Busco construir software que seja **claro, bem estruturado e fácil de manter**.  
+Meu aprendizado atual é centrado em:
+
+- **Estruturas de Dados**
+- **Arquitetura de Software**
+- **Boas práticas com Git**
 
 ---
 
-## Stack Tecnológica
+# ⚙️ Stack Tecnológica
 
 <div align="center">
 
@@ -35,33 +43,34 @@ Busco construir software que seja claro, bem estruturado e fácil de manter. Meu
 
 ---
 
-## Projetos em Destaque
+# 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologia |
-|:--------|:----------|:----------:|
-| [**HabitTracker**](https://github.com/usguilherme/HabitTracker) | Aplicação para monitoramento e gestão de hábitos diários com foco em produtividade | `Java` |
-| [**CassiaNunesHair**](https://github.com/usguilherme/CassiaNunesHair) | Sistema de gestão para salão de beleza com agendamento e cadastro de clientes | `Java` |
-| [**MeuRemédio**](https://github.com/usguilherme/MeuRem-dio) | Assistente pessoal para controle de medicação com alertas automáticos | `Python` |
+|:------|:-----------|:----------:|
+| **[HabitTracker](https://github.com/usguilherme/HabitTracker)** | Aplicação para monitoramento e gestão de hábitos diários com foco em produtividade | `Java` |
+| **[CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gestão para salão de beleza com agendamento e cadastro de clientes | `Java` |
+| **[MeuRemédio](https://github.com/usguilherme/MeuRem-dio)** | Assistente pessoal para controle de medicação com alertas automáticos | `Python` |
 
 ---
 
-## Desenvolvimento Acadêmico
+# 🎓 Desenvolvimento Acadêmico
 
 | Repositório | Tópico | Tecnologia |
-|:------------|:-------|:----------:|
-| [**Curso MySQL**](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-) | Exercícios práticos e modelagem de dados (Curso em Vídeo) | `SQL` |
-| [**LabEstruturaDadosJava**](https://github.com/usguilherme/LabEstruturaDadosJava) | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps | `Java` |a) | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps | `Java` |
-| [**Relational Database**](https://github.com/usguilherme/fcc-relational-database) | Certificação prática em PostgreSQL, Bash Scripting e Git (freeCodeCamp) | `SQL` |
-| [**Full Stack Open**](https://github.com/usguilherme/fullstackopen) | Imersão em JavaScript Moderno, React, Node.js e GraphQL (University of Helsinki) | `JavaScript` |
+|:-------------|:-------|:----------:|
+| **[Curso MySQL](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-)** | Exercícios práticos e modelagem de dados (Curso em Vídeo) | `SQL` |
+| **[LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava)** | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps | `Java` |
+| **[Relational Database](https://github.com/usguilherme/fcc-relational-database)** | Certificação prática em PostgreSQL, Bash Scripting e Git (freeCodeCamp) | `SQL` |
+| **[Full Stack Open](https://github.com/usguilherme/fullstackopen)** | Imersão em JavaScript Moderno, React, Node.js e GraphQL (University of Helsinki) | `JavaScript` |
 
 ---
 
-## Métricas
+# 📊 Métricas
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
 
@@ -69,6 +78,7 @@ Busco construir software que seja claro, bem estruturado e fácil de manter. Meu
 
 <div align="center">
 
-*Campina Grande, PB · Aberto a oportunidades e colaborações*
+### 📍 Campina Grande, PB  
+**Aberto a oportunidades e colaborações**
 
 </div>
