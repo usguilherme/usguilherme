@@ -50,8 +50,8 @@ Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e 
 
 | Curso                                                            | Descrição                                                                                    |                              Repositório                              |
 | :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: |
-| **Machine Learning e Data Science com Python de A a Z**          | Fundamentos de Machine Learning, análise de dados e aplicações práticas com Python           | [Repositório](https://github.com/usguilherme/python-machine-learning) |
 | **Curso de Python 3 do básico ao avançado – com projetos reais** | Formação completa em Python com foco em fundamentos, automação e desenvolvimento de projetos |  [Repositório](https://github.com/usguilherme/python-curso-completo)  |
+| **Machine Learning e Data Science com Python de A a Z**          | Fundamentos de Machine Learning, análise de dados e aplicações práticas com Python           | [Repositório](https://github.com/usguilherme/python-machine-learning) |
 
 ---
 
