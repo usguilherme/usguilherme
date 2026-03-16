@@ -2,13 +2,14 @@
 
 # Guilherme Macario
 
-### Back-End Developer  
+### Back-End Developer
+
 **Computer Science Student · UFCG**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-macario/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5583993043551)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gnmacario_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guilherme-macario/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square\&logo=whatsapp\&logoColor=white)](https://wa.me/5583993043551)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/gnmacario_/)
 
 </div>
 
@@ -18,14 +19,14 @@
 
 Sou estudante de **Ciência da Computação** na **Universidade Federal de Campina Grande (UFCG)**, com foco em desenvolvimento **Back-End**.
 
-Tenho experiência prática com Java e estou me aperfeiçoando em Python, com foco em aplicações de Inteligência Artificial e Machine Learning.
+Tenho experiência prática com **Java** e estou me aperfeiçoando em **Python**, com foco em aplicações de **Inteligência Artificial** e **Machine Learning**.
 
-Busco construir software que seja **claro, bem estruturado e fácil de manter**.  
+Busco construir software que seja **claro, bem estruturado e fácil de manter**.
 Meu aprendizado atual é centrado em:
 
-- **Estruturas de Dados**
-- **Arquitetura de Software**
-- **Boas práticas com Git**
+* **Estruturas de Dados**
+* **Arquitetura de Software**
+* **Boas práticas com Git**
 
 ---
 
@@ -33,34 +34,45 @@ Meu aprendizado atual é centrado em:
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 </div>
 
 ---
 
+# 🧠 Estudos em Inteligência Artificial
+
+Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e **Data Science utilizando Python**, aplicando os conceitos em exercícios e projetos práticos a partir dos seguintes cursos:
+
+| Curso                                                            | Descrição                                                                                    |                              Repositório                              |
+| :--------------------------------------------------------------- | :------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: |
+| **Machine Learning e Data Science com Python de A a Z**          | Fundamentos de Machine Learning, análise de dados e aplicações práticas com Python           | [Repositório](https://github.com/usguilherme/python-machine-learning) |
+| **Curso de Python 3 do básico ao avançado – com projetos reais** | Formação completa em Python com foco em fundamentos, automação e desenvolvimento de projetos |  [Repositório](https://github.com/usguilherme/python-curso-completo)  |
+
+---
+
 # 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologia |
-|:------|:-----------|:----------:|
-| **[HabitTracker](https://github.com/usguilherme/HabitTracker)** | Aplicação para monitoramento e gestão de hábitos diários com foco em produtividade | `Java` |
-| **[CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gestão para salão de beleza com agendamento e cadastro de clientes | `Java` |
-| **[MeuRemédio](https://github.com/usguilherme/MeuRem-dio)** | Assistente pessoal para controle de medicação com alertas automáticos | `Python` |
+| Projeto                                                               | Descrição                                                                          | Tecnologia |
+| :-------------------------------------------------------------------- | :--------------------------------------------------------------------------------- | :--------: |
+| **[HabitTracker](https://github.com/usguilherme/HabitTracker)**       | Aplicação para monitoramento e gestão de hábitos diários com foco em produtividade |   `Java`   |
+| **[CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gestão para salão de beleza com agendamento e cadastro de clientes      |   `Java`   |
+| **[MeuRemédio](https://github.com/usguilherme/MeuRem-dio)**           | Assistente pessoal para controle de medicação com alertas automáticos              |  `Python`  |
 
 ---
 
 # 🎓 Desenvolvimento Acadêmico
 
-| Repositório | Tópico | Tecnologia |
-|:-------------|:-------|:----------:|
-| **[LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava)** | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps | `Java` |
-| **[Relational Database](https://github.com/usguilherme/fcc-relational-database)** | Certificação prática em PostgreSQL, Bash Scripting e Git (freeCodeCamp) | `SQL` |
-| **[Full Stack Open](https://github.com/usguilherme/fullstackopen)** | Imersão em JavaScript Moderno, React, Node.js e GraphQL (University of Helsinki) | `JavaScript` |
-| **[Curso MySQL](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-)** | Exercícios práticos e modelagem de dados (Curso em Vídeo) | `SQL` |
+| Repositório                                                                       | Tópico                                                                           |  Tecnologia  |
+| :-------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- | :----------: |
+| **[LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava)** | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps                      |    `Java`    |
+| **[Relational Database](https://github.com/usguilherme/fcc-relational-database)** | Certificação prática em PostgreSQL, Bash Scripting e Git (freeCodeCamp)          |     `SQL`    |
+| **[Full Stack Open](https://github.com/usguilherme/fullstackopen)**               | Imersão em JavaScript Moderno, React, Node.js e GraphQL (University of Helsinki) | `JavaScript` |
+| **[Curso MySQL](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-)**  | Exercícios práticos e modelagem de dados (Curso em Vídeo)                        |     `SQL`    |
 
 ---
 
@@ -78,7 +90,8 @@ Meu aprendizado atual é centrado em:
 
 <div align="center">
 
-### 📍 Campina Grande, PB  
+### 📍 Campina Grande, PB
+
 **Aberto a oportunidades e colaborações**
 
 </div>
