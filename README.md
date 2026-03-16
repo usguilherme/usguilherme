@@ -22,13 +22,6 @@ Sou estudante de **Ciência da Computação** na **Universidade Federal de Campi
 Tenho experiência prática com **Java** e estou me aperfeiçoando em **Python**, com foco em aplicações de **Inteligência Artificial** e **Machine Learning**.
 
 Busco construir software que seja **claro, bem estruturado e fácil de manter**.
-Meu aprendizado atual é centrado em:
-
-* **Estruturas de Dados**
-* **Arquitetura de Software**
-* **Boas práticas com Git**
-
----
 
 # ⚙️ Stack Tecnológica
 
