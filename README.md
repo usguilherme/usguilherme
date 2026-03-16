@@ -18,7 +18,7 @@
 
 Sou estudante de **Ciência da Computação** na **Universidade Federal de Campina Grande (UFCG)**, com foco em desenvolvimento **Back-End**.
 
-Tenho experiência prática com Java e estou me aperfeiçoando em Python, com foco em aplicações de Inteligência Artificial e Machine Learning. Atualmente também estou ampliando minha stack com JavaScript e SQL.
+Tenho experiência prática com Java e estou me aperfeiçoando em Python, com foco em aplicações de Inteligência Artificial e Machine Learning.
 
 Busco construir software que seja **claro, bem estruturado e fácil de manter**.  
 Meu aprendizado atual é centrado em:
