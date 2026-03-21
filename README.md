@@ -51,16 +51,6 @@ Busco construir software que seja **claro, bem estruturado e fácil de manter**.
 
 </div>
 
-### Frameworks & Bibliotecas
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-</div>
-
 ---
 
 ## 🧠 Estudos em Inteligência Artificial
