@@ -70,8 +70,6 @@ Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e 
 | Repositório | Tópico | Tecnologia |
 |:------------|:-------|:----------:|
 | **[LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava)** | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
-| **[Relational Database](https://github.com/usguilherme/fcc-relational-database)** | Certificação prática em PostgreSQL, Bash e Git (freeCodeCamp) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql) |
-| **[Full Stack Open](https://github.com/usguilherme/fullstackopen)** | Imersão em JavaScript Moderno, React, Node.js e GraphQL | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **[Curso MySQL](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-)** | Exercícios práticos e modelagem de dados | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) |
 
 ---
