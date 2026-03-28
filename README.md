@@ -56,13 +56,11 @@ Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e 
 ---
 
 ## 🚀 Projetos em Destaque
-
 | Projeto | Descrição | Tecnologia |
 |:--------|:----------|:----------:|
-| **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gestão para salão de beleza com agendamento e cadastro de clientes | ![Java](https://github.com/usguilherme/SalaoCassiaNunesHair.git) |
+| **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gestão para salão de beleza com estruturas de dados, POO e testes JUnit 5 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
 | **[HabitTracker](https://github.com/usguilherme/HabitTracker)** | Aplicação para monitoramento e gestão de hábitos diários com foco em produtividade | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
 | **[MeuRemédio](https://github.com/usguilherme/MeuRem-dio)** | Assistente pessoal para controle de medicação com alertas automáticos | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
-
 
 ---
 
