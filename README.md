@@ -35,9 +35,7 @@ Busco construir software que seja **claro, bem estruturado e fácil de manter**.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="60" height="60" margin="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60" margin="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" margin="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" margin="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" margin="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" height="60" margin="10"/>
 
 </div>
@@ -56,6 +54,7 @@ Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e 
 ---
 
 ## 🚀 Projetos em Destaque
+
 | Projeto | Descrição | Tecnologia |
 |:--------|:----------|:----------:|
 | **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gestão para salão de beleza com estruturas de dados, POO e testes JUnit 5 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
@@ -77,9 +76,11 @@ Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117)](https://github.com/usguilherme)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true)](https://github.com/usguilherme)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/usguilherme)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6)](https://github.com/usguilherme)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=usguilherme&theme=dark&hide_border=true&background=0d1117&locale=pt_br)](https://github.com/usguilherme)
 
 </div>
 
