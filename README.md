@@ -71,7 +71,7 @@ Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e 
 
 <br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff6edb&text_color=c9d1d9" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff6edb&text_color=c9d1d9" height="150" />
 
 <br/>
 
