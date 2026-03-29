@@ -80,7 +80,7 @@ Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e 
 
 <br/>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=usguilherme&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/usguilherme)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8)](https://github.com/usguilherme)
 
 <br/>
 
