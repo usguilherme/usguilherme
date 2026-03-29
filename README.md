@@ -1,10 +1,7 @@
 <div align="center">
 
 # Guilherme Macario
-
-## Back-End Developer
-
-**Computer Science Student · UFCG**
+**Back-End Developer · CS Student @ UFCG**
 
 </div>
 
@@ -12,58 +9,53 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Ciência da Computação** na **Universidade Federal de Campina Grande (UFCG)**, com foco em desenvolvimento **Back-End**.
-
-Tenho experiência prática com **Java** e estou me aperfeiçoando em **Python**, com foco em aplicações de **Inteligência Artificial** e **Machine Learning**.
-
-Busco construir software que seja **claro, bem estruturado e fácil de manter**.
+Estudante de **Ciência da Computação** na **UFCG**, focado em desenvolvimento **Back-End**.
+Experiência com **Java** e aprimorando em **Python** com foco em **IA** e **Machine Learning**.
 
 ---
 
-## ⚙️ Stack Tecnológico
+## ⚙️ Stack
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="60" height="60" margin="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60" margin="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" margin="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="60" height="60" margin="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55"/>
 
 </div>
 
 ---
 
-## 🧠 Estudos em Inteligência Artificial
+## 🧠 IA & Machine Learning
 
-Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e **Data Science com Python**, aplicando os conceitos em exercícios e projetos práticos.
-
-| Curso | Descrição | Repositório |
-|:------|:----------|:------------|
-| **Curso de Python 3 - Do Básico ao Avançado** | Formação completa em Python com foco em fundamentos, automação e desenvolvimento de projetos reais | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/usguilherme/Python3LuizOtavio.git) |
-| **Machine Learning e Data Science com Python** | Fundamentos de Machine Learning, análise de dados e aplicações práticas com Python | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/usguilherme/LMPYHON.git) |
+| Curso | Repositório |
+|:------|:------------|
+| Python 3 - Do Básico ao Avançado | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/usguilherme/Python3LuizOtavio.git) |
+| Machine Learning e Data Science com Python | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/usguilherme/LMPYHON.git) |
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos
 
-| Projeto | Descrição | Tecnologia |
-|:--------|:----------|:----------:|
-| **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gestão para salão de beleza com estruturas de dados, POO e testes JUnit 5 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
-| **[HabitTracker](https://github.com/usguilherme/HabitTracker)** | Aplicação para monitoramento e gestão de hábitos diários com foco em produtividade | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
-| **[MeuRemédio](https://github.com/usguilherme/MeuRem-dio)** | Assistente pessoal para controle de medicação com alertas automáticos | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
-
----
-
-## 🎓 Desenvolvimento Acadêmico
-
-| Repositório | Tópico | Tecnologia |
-|:------------|:-------|:----------:|
-| **[LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava)** | Implementações de Listas, Pilhas, Filas, Árvores e Hashmaps | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
-| **[Curso MySQL](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-)** | Exercícios práticos e modelagem de dados | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) |
+| Projeto | Descrição | Tech |
+|:--------|:----------|:----:|
+| **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gestão para salão de beleza | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
+| **[HabitTracker](https://github.com/usguilherme/HabitTracker)** | Monitoramento de hábitos diários | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
+| **[MeuRemédio](https://github.com/usguilherme/MeuRem-dio)** | Controle de medicação com alertas | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🎓 Acadêmico
+
+| Repositório | Tópico | Tech |
+|:------------|:-------|:----:|
+| **[LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava)** | Listas, Pilhas, Filas, Árvores e Hashmaps | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
+| **[Curso MySQL](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-)** | Exercícios e modelagem de dados | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -83,13 +75,9 @@ Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e 
 
 <div align="center">
 
-### 📍 Campina Grande, PB
-
-**Aberto a oportunidades e colaborações**
+📍 Campina Grande, PB · Aberto a oportunidades
 
 <br/>
-
-### 📱 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-macario/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com)
