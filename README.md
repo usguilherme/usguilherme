@@ -76,10 +76,12 @@ Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e 
 
 <div align="center">
 
-<a href="https://github.com/usguilherme">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usguilherme&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6"/>
-</a>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usguilherme&theme=github_dark_dimmed"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usguilherme&theme=github_dark_dimmed"/>
+
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usguilherme&theme=github_dark_dimmed"/>
 
 <br/>
 
