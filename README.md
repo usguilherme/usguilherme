@@ -6,15 +6,6 @@
 
 **Computer Science Student · UFCG**
 
----
-
-### 📱 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-macario/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583993043551)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gnmacario_/)
-
 </div>
 
 ---
@@ -76,11 +67,11 @@ Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=usguilherme&theme=dark&hide_border=true&background=0d1117&locale=pt_br)](https://github.com/usguilherme)
+[![GitHub Streak](https://streak-stats.demolab.com?user=usguilherme&theme=dark&hide_border=true&background=0d0d0d&locale=pt_br)](https://github.com/usguilherme)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8)](https://github.com/usguilherme)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff6edb&text_color=c9d1d9" height="150" />
 
 <br/>
 
@@ -95,5 +86,14 @@ Atualmente estou estudando **Inteligência Artificial**, **Machine Learning** e 
 ### 📍 Campina Grande, PB
 
 **Aberto a oportunidades e colaborações**
+
+<br/>
+
+### 📱 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-macario/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583993043551)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gnmacario_/)
 
 </div>
