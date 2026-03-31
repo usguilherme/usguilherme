@@ -43,6 +43,7 @@ Experiência com **Java** e aprimorando em **Python** com foco em **IA** e **Mac
 | **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gestão para salão de beleza | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
 | **[HabitTracker](https://github.com/usguilherme/HabitTracker)** | Monitoramento de hábitos diários | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
 | **[MeuRemédio](https://github.com/usguilherme/MeuRem-dio)** | Controle de medicação com alertas | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
+| **[cpf-validator-python](https://github.com/usguilherme/cpf-validator-python)** | Validador de CPF com cálculo dos dígitos verificadores | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
 
 ---
 
