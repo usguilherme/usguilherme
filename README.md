@@ -1,6 +1,7 @@
 <div align="center">
 
 # Guilherme Macario
+
 **Back-End Developer · CS Student @ UFCG**
 
 </div>
@@ -29,30 +30,35 @@ Experiência com **Java** e aprimorando em **Python** com foco em **IA** e **Mac
 
 ## 🧠 IA & Machine Learning
 
-| Curso | Repositório |
-|:------|:------------|
-| Python 3 - Do Básico ao Avançado | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/usguilherme/Python3LuizOtavio.git) |
-| Machine Learning e Data Science com Python | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/usguilherme/LMPYHON.git) |
+| Curso                                                                                                                                                                 | Projetos |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
+| Python 3 - Do Básico ao Avançado                                                                                                                                      |          |
+| [![Quiz System](https://img.shields.io/badge/Quiz%20System-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/usguilherme/python-quiz-system)       |          |
+| [![CPF Validator](https://img.shields.io/badge/CPF%20Validator-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/usguilherme/cpf-validator-python) |          |
+| [![Repositório do Curso](https://img.shields.io/badge/Curso-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/usguilherme/Python3LuizOtavio.git)   |          |
+| Machine Learning e Data Science com Python                                                                                                                            |          |
+| [![Repositório](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/usguilherme/LMPYHON.git)                     |          |
 
 ---
 
 ## 🚀 Projetos
 
-| Projeto | Descrição | Tech |
-|:--------|:----------|:----:|
-| **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gestão para salão de beleza | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
-| **[HabitTracker](https://github.com/usguilherme/HabitTracker)** | Monitoramento de hábitos diários | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
-| **[MeuRemédio](https://github.com/usguilherme/MeuRem-dio)** | Controle de medicação com alertas | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
-| **[cpf-validator-python](https://github.com/usguilherme/cpf-validator-python)** | Validador de CPF com cálculo dos dígitos verificadores | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
+| Projeto                                                                         | Descrição                                              |                                      Tech                                     |
+| :------------------------------------------------------------------------------ | :----------------------------------------------------- | :---------------------------------------------------------------------------: |
+| **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)**      | Sistema de gestão para salão de beleza                 |   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk)  |
+| **[HabitTracker](https://github.com/usguilherme/HabitTracker)**                 | Monitoramento de hábitos diários                       |   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk)  |
+| **[MeuRemédio](https://github.com/usguilherme/MeuRem-dio)**                     | Controle de medicação com alertas                      | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python) |
+| **[cpf-validator-python](https://github.com/usguilherme/cpf-validator-python)** | Validador de CPF com cálculo dos dígitos verificadores | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python) |
+| **[python-quiz-system](https://github.com/usguilherme/python-quiz-system)**     | Sistema de perguntas e respostas com menu interativo   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python) |
 
 ---
 
 ## 🎓 Acadêmico
 
-| Repositório | Tópico | Tech |
-|:------------|:-------|:----:|
-| **[LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava)** | Listas, Pilhas, Filas, Árvores e Hashmaps | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) |
-| **[Curso MySQL](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-)** | Exercícios e modelagem de dados | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) |
+| Repositório                                                                       | Tópico                                    |                                    Tech                                    |
+| :-------------------------------------------------------------------------------- | :---------------------------------------- | :------------------------------------------------------------------------: |
+| **[LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava)** | Listas, Pilhas, Filas, Árvores e Hashmaps | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk) |
+| **[Curso MySQL](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-)**  | Exercícios e modelagem de dados           | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql) |
 
 ---
 
@@ -60,7 +66,7 @@ Experiência com **Java** e aprimorando em **Python** com foco em **IA** e **Mac
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=usguilherme&theme=dark&hide_border=true&background=0d0d0d&locale=pt_br)](https://github.com/usguilherme)
+[![GitHub Streak](https://streak-stats.demolab.com?user=usguilherme\&theme=dark\&hide_border=true\&background=0d0d0d\&locale=pt_br)](https://github.com/usguilherme)
 
 <br/>
 
@@ -68,7 +74,7 @@ Experiência com **Java** e aprimorando em **Python** com foco em **IA** e **Mac
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=usguilherme&theme=react-dark&hide_border=true&area=true)](https://github.com/usguilherme)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=usguilherme\&theme=react-dark\&hide_border=true\&area=true)](https://github.com/usguilherme)
 
 </div>
 
@@ -80,9 +86,9 @@ Experiência com **Java** e aprimorando em **Python** com foco em **IA** e **Mac
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-macario/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583993043551)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gnmacario_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guilherme-macario/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/5583993043551)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/gnmacario_/)
 
 </div>
