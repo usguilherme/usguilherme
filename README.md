@@ -59,12 +59,12 @@ Sou movido pela interseção entre a disciplina da engenharia de software e os s
 | &nbsp; | Projeto | Descrição | Stack |
 |:---:|:---|:---|:---:|
 | 🏛️ | **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema completo de gerenciamento para salão de beleza — agendamentos, clientes e serviços | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
-| 📋 | **[HabitTracker](https://github.com/usguilherme/HabitTracker)** | Monitoramento diário de hábitos com lógica de acompanhamento e progresso | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
-| 💊 | **[MeuRemédio](https://github.com/usguilherme/MeuRem-dio)** | Sistema de controle de medicamentos com alertas programados | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
+| 📋 | **[Task Manager CLI](https://github.com/usguilherme/python-task-manager)** | Gerenciador de tarefas com persistência em JSON, filtros de status e estatísticas de produtividade | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
 | 🔐 | **[Validador de CPF](https://github.com/usguilherme/cpf-validator-python)** | Validação de CPF com implementação completa do algoritmo de dígitos verificadores | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
 | 🧩 | **[Sistema de Quiz](https://github.com/usguilherme/python-quiz-system)** | Sistema interativo de perguntas e respostas com interface por menus | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
 
 </div>
+
 
 ---
 
