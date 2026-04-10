@@ -76,7 +76,7 @@ Atualmente avançando por um currículo estruturado e aplicando conceitos em pro
 
 | Curso | Projetos |
 |:---|:---|
-| **Python 3 — Do Básico ao Avançado** | [![Sistema de Quiz](https://img.shields.io/badge/Sistema%20de%20Quiz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/usguilherme/python-quiz-system) &nbsp; [![Validador de CPF](https://img.shields.io/badge/Validador%20de%20CPF-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/usguilherme/cpf-validator-python) &nbsp; [![Repositório](https://img.shields.io/badge/Repositório%20Completo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/usguilherme/Python3LuizOtavio.git) |
+| **Python 3 — Do Básico ao Avançado** | [![Repositório](https://img.shields.io/badge/Repositório%20Completo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/usguilherme/Python3LuizOtavio.git) |
 | **Machine Learning & Data Science com Python** | [![Repositório](https://img.shields.io/badge/Repositório%20Completo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/usguilherme/LMPYHON.git) |
 
 </div>
