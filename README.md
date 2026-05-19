@@ -62,6 +62,7 @@ Sou movido pela interseção entre a disciplina da engenharia de software e os s
 | 📋 | **[Task Manager CLI](https://github.com/usguilherme/python-task-manager)** | Gerenciador de tarefas com persistência em JSON, filtros de status e estatísticas de produtividade | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
 | 🔐 | **[Validador de CPF](https://github.com/usguilherme/cpf-validator-python)** | Validação de CPF com implementação completa do algoritmo de dígitos verificadores | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
 | 🧩 | **[Sistema de Quiz](https://github.com/usguilherme/python-quiz-system)** | Sistema interativo de perguntas e respostas com interface por menus | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
+| 📚 | **[Sistema de Biblioteca Python](https://github.com/usguilherme/sistema-biblioteca-python)** | Projeto em Python aplicando conceitos de POO para gestão de acervo de livros. Conta com separação de responsabilidades entre as regras de negócio e as interfaces CLI e Web | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
 
 </div>
 
