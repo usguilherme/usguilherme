@@ -73,19 +73,23 @@ Cursando programas estruturados de **Python avançado** e **Machine Learning** c
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=usguilherme&theme=dark&hide_border=true&background=0d0d0d&locale=pt_br)](https://github.com/usguilherme)
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats-blue-seven.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff6edb&text_color=c9d1d9&cache_seconds=1" height="150"/>
 
-<br/>
+<br/><br/>
 
 [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=usguilherme&theme=react-dark&hide_border=true&area=true)](https://github.com/usguilherme)
 
 <br/>
+
+</div>
 
 ---
 
