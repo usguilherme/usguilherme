@@ -11,95 +11,44 @@
  ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
 ```
 
-<br/>
+**Back-End Developer** • **CC @ UFCG** • **AI & ML**
 
-**`Desenvolvedor Back-End`** &nbsp;·&nbsp; **`CC @ UFCG`** &nbsp;·&nbsp; **`Entusiasta de IA & ML`**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-macario-900a7733b/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583993043551)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gnmacario_/)
-
-<br/>
-
-![Visualizações do Perfil](https://komarev.com/ghpvc/?username=usguilherme&color=blueviolet&style=flat-square&label=VISUALIZAÇÕES+DO+PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-macario-900a7733b/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583993043551) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gnmacario_/)
 
 </div>
 
 ---
 
-## &nbsp; Sobre
+## 🧑‍💻 Sobre
 
-Estudante de Ciência da Computação na **UFCG** desenvolvendo sistemas back-end confiáveis e bem estruturados. Minha linguagem principal é **Java** — me preocupo profundamente com arquitetura limpa e design orientado a objetos. Atualmente expandindo para **Python**, aplicando-o em projetos de **Inteligência Artificial** e **Machine Learning** onde posso transformar dados em conhecimento.
+Desenvolvedor back-end apaixonado por **arquitetura limpa** e **design orientado a objetos**. Especializado em **Java** e explorando **Python** para **IA & Machine Learning**. Estudante de Ciência da Computação na **UFCG**.
 
-Sou movido pela interseção entre a disciplina da engenharia de software e os sistemas inteligentes.
-
----
-
-## &nbsp; Stack Tecnológica
-
-<div align="center">
-
-| Camada | Tecnologias |
-|:---|:---|
-| **Linguagens** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-
-</div>
+> *"Primeiro, resolva o problema. Depois, escreva o código."*
 
 ---
 
-## &nbsp; Projetos em Destaque
+## 🛠️ Tech Stack
 
-<div align="center">
-
-| &nbsp; | Projeto | Descrição | Stack |
-|:---:|:---|:---|:---:|
-| 🏛️ | **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema completo de gerenciamento para salão de beleza — agendamentos, clientes e serviços | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
-| 📚 | **[Sistema de Biblioteca](https://github.com/usguilherme/sistema-biblioteca-python)** | Projeto em Python aplicando conceitos de POO para gestão de acervo de livros. Conta com separação de responsabilidades entre as regras de negócio e as interfaces CLI e Web | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
-| 📋 | **[Task Manager CLI](https://github.com/usguilherme/python-task-manager)** | Gerenciador de tarefas com persistência em JSON, filtros de status e estatísticas de produtividade | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
-| 🔐 | **[Validador de CPF](https://github.com/usguilherme/cpf-validator-python)** | Validação de CPF com implementação completa do algoritmo de dígitos verificadores | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
-| 🧩 | **[Sistema de Quiz](https://github.com/usguilherme/python-quiz-system)** | Sistema interativo de perguntas e respostas com interface por menus | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
-
-</div>
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## &nbsp; IA & Machine Learning
+## 🚀 Projetos
 
-Atualmente avançando por um currículo estruturado e aplicando conceitos em projetos reais.
-
-<div align="center">
-
-| Curso | Projetos |
-|:---|:---|
-| **Python 3 — Do Básico ao Avançado** | [![Repositório](https://img.shields.io/badge/Repositório%20Completo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/usguilherme/Python3LuizOtavio.git) |
-| **Machine Learning & Data Science com Python** | [![Repositório](https://img.shields.io/badge/Repositório%20Completo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/usguilherme/LMPYHON.git) |
-
-</div>
+| 🏛️ | **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gerenciamento para salão de beleza | `Java` |
+|:---:|---|---|:---:|
+| 📚 | **[Sistema de Biblioteca](https://github.com/usguilherme/sistema-biblioteca-python)** | Gestão de acervo com POO | `Python` |
+| 📋 | **[Task Manager CLI](https://github.com/usguilherme/python-task-manager)** | Gerenciador de tarefas com persistência | `Python` |
+| 🔐 | **[Validador de CPF](https://github.com/usguilherme/cpf-validator-python)** | Validação completa de CPF | `Python` |
+| 🧩 | **[Sistema de Quiz](https://github.com/usguilherme/python-quiz-system)** | Plataforma de perguntas e respostas | `Python` |
 
 ---
 
-## &nbsp; Trabalhos Acadêmicos
-
-<div align="center">
-
-| Repositório | Tema | Stack |
-|:---|:---|:---:|
-| **[LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava)** | Listas, Pilhas, Filas, Árvores e Mapas Hash — do zero | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
-| **[Curso MySQL](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-)** | Exercícios, modelagem de dados e design relacional | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) |
-
-</div>
-
----
-
-## &nbsp; Estatísticas do GitHub
-
-<div align="center">
+## 📊 GitHub Stats
 
 <br/>
 
@@ -115,16 +64,12 @@ Atualmente avançando por um currículo estruturado e aplicando conceitos em pro
 
 <br/>
 
-</div>
-
 ---
 
 <div align="center">
 
-<sub>📍 Campina Grande, PB &nbsp;·&nbsp; Aberto a oportunidades</sub>
+📍 **Campina Grande, PB** — Aberto a oportunidades
 
-<br/><br/>
-
-*"Primeiro, resolva o problema. Depois, escreva o código."*
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=usguilherme&color=blueviolet&style=flat-square&label=VISUALIZAÇÕES)
 
 </div>
