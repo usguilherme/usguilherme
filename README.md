@@ -11,7 +11,7 @@
  ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
 ```
 
-<h3>🚀 Back-End Developer | Java • Python • IA & ML</h3>
+<h3>🚀 Back-End Developer | Python • Java • IA & ML</h3>
 
 **Ciência da Computação @ UFCG** — Campina Grande, PB
 
