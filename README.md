@@ -29,18 +29,17 @@ Desenvolvedor back-end focado em **arquitetura limpa** e **code quality**. Espec
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Linguagens e Tecnologias
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<img alt="Java" title="Java" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="Python" title="Python" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="MySQL" title="MySQL" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="Git" title="Git" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" title="GitHub" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 </div>
-
 ---
 
 ## 🚀 Projetos Principais
