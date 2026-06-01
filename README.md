@@ -1,27 +1,30 @@
 <div align="center">
 
-<br/>
+### 🚀 Back-End Developer | Python • Java • IA & ML
 
-```
- ██████╗ ██╗   ██╗██╗██╗     ██╗  ██╗███████╗██████╗ ███╗   ███╗███████╗
-██╔════╝ ██║   ██║██║██║     ██║  ██║██╔════╝██╔══██╗████╗ ████║██╔════╝
-██║  ███╗██║   ██║██║██║     ███████║█████╗  ██████╔╝██╔████╔██║█████╗  
-██║   ██║██║   ██║██║██║     ██╔══██║██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══╝  
-╚██████╔╝╚██████╔╝██║███████╗██║  ██║███████╗██║  ██║██║ ╚═╝ ██║███████╗
- ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
-```
+🎓 **Ciência da Computação — UFCG**  
+📍 Campina Grande, PB - Brasil
 
-<h3>🚀 Back-End Developer | Python • Java • IA & ML</h3>
+<br>
 
-**Ciência da Computação @ UFCG** — Campina Grande, PB
+<a href="https://www.linkedin.com/in/guilherme-macario-900a7733b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-macario-900a7733b/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeprofissionalmacario@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583993043551) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gnmacario_/)
+<a href="mailto:guilhermeprofissionalmacario@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-![Visualizações](https://komarev.com/ghpvc/?username=usguilherme&color=blueviolet&style=flat-square&label=PERFIL)
+<a href="https://wa.me/5583993043551">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/gnmacario_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 </div>
 
----
 
 ## 👨‍💻 Sobre
 
