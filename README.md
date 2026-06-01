@@ -43,7 +43,6 @@ Desenvolvedor back-end focado em **arquitetura limpa** e **code quality**. Espec
 <img alt="GitHub" title="GitHub" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 </div>
----
 
 ## 🚀 Projetos Principais
 
