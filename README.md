@@ -48,8 +48,8 @@ Desenvolvedor back-end focado em **arquitetura limpa** e **code quality**. Espec
 
 | 🏛️ | **[SalaoCassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair)** | Sistema de gerenciamento para salão | `Java` |
 |:---:|---|---|:---:|
+| 📋 | **[Task Manager CLI](https://github.com/usguilherme/python-task-manager)** | Gerenciador de tarefas com persistência em SQLite | `Python` |
 | 📚 | **[Sistema de Biblioteca](https://github.com/usguilherme/sistema-biblioteca-python)** | Gestão de acervo com POO | `Python` |
-| 📋 | **[Task Manager CLI](https://github.com/usguilherme/python-task-manager)** | Gerenciador de tarefas com persistência | `Python` |
 | 🔐 | **[Validador de CPF](https://github.com/usguilherme/cpf-validator-python)** | Validação completa de CPF | `Python` |
 | 🧩 | **[Sistema de Quiz](https://github.com/usguilherme/python-quiz-system)** | Plataforma de Q&A interativa | `Python` |
 
