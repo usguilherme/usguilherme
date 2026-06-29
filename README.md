@@ -68,8 +68,6 @@ Cursando programas estruturados de **Python avançado** e **Machine Learning** c
 
 **Estrutura de Dados** — Listas, Pilhas, Filas, Árvores, Hash Maps | [`Java`](https://github.com/usguilherme/LabEstruturaDadosJava)
 
-**Banco de Dados** — Modelagem relacional e SQL otimizado | [`MySQL`](https://github.com/usguilherme/curso-mysql-Gustavo-Guanabara-)
-
 ---
 
 ## 📊 GitHub Stats
