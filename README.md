@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B0000,B22222,DC143C,FF4500&height=200&section=header&text=Guilherme%20Macário&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20IA%20%26%20ML&descAlignY=55&descSize=18"/>
+# Guilherme Macário
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Back-End+Developer;Java+%7C+Python+%7C+IA+%26+ML;Clean+Code+%26+Boas+Pr%C3%A1ticas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
