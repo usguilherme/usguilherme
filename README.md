@@ -204,6 +204,10 @@ Atuação independente na criação e estampagem de camisas personalizadas, do a
 
 [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=usguilherme&theme=react-dark&hide_border=true&area=true&color=FF4D4D&line=DC143C)](https://github.com/usguilherme)
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/usguilherme/usguilherme/output/github-snake-dark.svg" alt="Snake animation" />
+
 </div>
 
 ---
