@@ -185,7 +185,7 @@ Atuação independente na criação e estampagem de camisas personalizadas, do a
 
 ## 🏆 Certificações
 
-> _Você mencionou estar cursando "Python 3 — Do Básico ao Avançado" e "Machine Learning & Data Science". Se tiver certificados emitidos (PDF, link ou plataforma), me manda que eu adiciono aqui com os badges certos (Coursera, Udemy, AWS, etc.)._
+- 🐍 **Python 3 — Do Básico ao Avançado**, Luiz Otávio Mesquita — [repositório do curso](https://github.com/usguilherme/Python3LuizOtavio.git)
 
 ---
 
