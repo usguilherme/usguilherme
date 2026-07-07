@@ -1,37 +1,37 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12,15&height=200&section=header&text=Guilherme%20Macário&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20IA%20%26%20ML&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B0000,B22222,DC143C,FF4500&height=200&section=header&text=Guilherme%20Macário&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20IA%20%26%20ML&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Back-End+Developer;Java+%7C+Python+%7C+IA+%26+ML;Clean+Code+%26+Boas+Pr%C3%A1ticas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Back-End+Developer;Java+%7C+Python+%7C+IA+%26+ML;Clean+Code+%26+Boas+Pr%C3%A1ticas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 <br>
 
-![Ciência da Computação](https://img.shields.io/badge/UFCG-Ciência%20da%20Computação-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Campina%20Grande-PB%2C%20Brasil-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Ciência da Computação](https://img.shields.io/badge/UFCG-Ciência%20da%20Computação-8B0000?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Campina%20Grande-PB%2C%20Brasil-B22222?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br>
 
 <a href="https://www.linkedin.com/in/guilherme-macario-900a7733b/">
-  <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:guilhermeprofissionalmacario@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://wa.me/5583993043551">
-  <img src="https://img.shields.io/badge/WhatsApp-8B5CF6?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 <a href="https://github.com/usguilherme">
-  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-A61C1C?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/gnmacario_/">
-  <img src="https://img.shields.io/badge/Instagram-9333EA?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-C1272D?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=usguilherme&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/usguilherme?color=6A0DAD&style=for-the-badge&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/usguilherme?color=7C3AED&style=for-the-badge&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=usguilherme&color=B22222&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/usguilherme?color=8B0000&style=for-the-badge&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/usguilherme?color=DC143C&style=for-the-badge&label=STARS&logo=github)
 
 </div>
 
@@ -86,8 +86,8 @@ Open_To:
 
 | Área | Status | Detalhes |
 |:---|:---:|:---|
-| **Python Avançado** | 🟣 Em andamento | Curso completo do básico ao avançado (Luiz Otávio) |
-| **Machine Learning & Data Science** | 🟣 Em andamento | Fundamentos de ML e ciência de dados com projetos práticos |
+| **Python Avançado** | 🔴 Em andamento | Curso completo do básico ao avançado (Luiz Otávio) |
+| **Machine Learning & Data Science** | 🔴 Em andamento | Fundamentos de ML e ciência de dados com projetos práticos |
 | **Estrutura de Dados** | 🟢 Concluído | Listas, pilhas, filas, árvores e hash maps em Java |
 
 </div>
@@ -168,7 +168,18 @@ Plataforma interativa de perguntas e respostas.
 
 ## 💼 Experiência
 
-> _Ainda não há experiência profissional listada. Se você já trabalhou em alguma empresa ou projeto freelance, me conta que eu monto essa seção no mesmo padrão premium (cargo, empresa, período, responsabilidades e skills)._
+**Estampador / Empreendedor — Camisas Personalizadas**
+`Autônomo`
+
+Atuação independente na criação e estampagem de camisas personalizadas, do atendimento ao cliente à entrega do produto final.
+
+- Atendimento direto ao cliente, do briefing à entrega
+- Produção e estampagem das peças personalizadas
+- Gestão de pedidos, prazos e qualidade do produto final
+
+`Empreendedorismo` `Atendimento ao Cliente` `Gestão de Produção`
+
+> 🎯 Atualmente em transição de carreira, buscando minha primeira oportunidade como **Desenvolvedor Back-End**, aplicando os conhecimentos em Java, Python e IA/ML desenvolvidos na graduação e nos projetos pessoais.
 
 ---
 
@@ -182,16 +193,16 @@ Plataforma interativa de perguntas e respostas.
 
 <div align="center">
 
-<img src="https://github-readme-stats-blue-seven.vercel.app/api?username=usguilherme&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=8A2BE2&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats-blue-seven.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-blue-seven.vercel.app/api?username=usguilherme&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF4D4D&icon_color=DC143C&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-blue-seven.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF4D4D&text_color=c9d1d9" height="165"/>
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=usguilherme&theme=dark&hide_border=true&background=0d0d0d&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA&locale=pt_br)](https://github.com/usguilherme)
+[![GitHub Streak](https://streak-stats.demolab.com?user=usguilherme&theme=dark&hide_border=true&background=0d0d0d&ring=DC143C&fire=FF4D4D&currStreakLabel=FF4D4D&locale=pt_br)](https://github.com/usguilherme)
 
 <br>
 
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=usguilherme&theme=react-dark&hide_border=true&area=true&color=A78BFA&line=8A2BE2)](https://github.com/usguilherme)
+[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=usguilherme&theme=react-dark&hide_border=true&area=true&color=FF4D4D&line=DC143C)](https://github.com/usguilherme)
 
 </div>
 
@@ -229,6 +240,6 @@ Focus:
 
 > *"Primeiro, resolva o problema. Depois, escreva o código."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12,15&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B0000,B22222,DC143C,FF4500&height=120&section=footer"/>
 
 </div>
