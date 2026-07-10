@@ -41,7 +41,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor **Back-End** em formação em Ciência da Computação pela **UFCG**, com foco em **arquitetura limpa**, **qualidade de código** e **design bem estruturado**. Especializado em **Java**, atualmente expandindo minha atuação para **Python aplicado a Inteligência Artificial e Machine Learning**.
+Desenvolvedor **Back-End** em formação em Ciência da Computação pela **UFCG**, com foco em **arquitetura limpa**, **qualidade de código** e **design bem estruturado**. Atuo com **Java** e estou expandindo minha atuação para **Python aplicado a Inteligência Artificial e Machine Learning**.
 
 Gosto de entender o problema antes de escrever a primeira linha de código — acredito que soluções sólidas nascem de um bom raciocínio, não de atalhos.
 
@@ -49,7 +49,6 @@ Gosto de entender o problema antes de escrever a primeira linha de código — a
 Perfil:
   Formação: "Ciência da Computação — UFCG"
   Foco_Principal: "Back-End Development"
-  Especialidade: "Java"
   Explorando: "Python para IA & Machine Learning"
   Mentalidade: "Clean Code, arquitetura e resolução de problemas"
 
