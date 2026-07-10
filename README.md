@@ -126,7 +126,7 @@ Gerenciador de tarefas via linha de comando com persistência de dados em SQLite
 
 | Stack | Repositório |
 |:---|:---|
-| `Python` `SQLite` | [usguilherme/python-task-manager](https://github.com/usguilherme/python-task-manager) |
+| `Python` `SQLite` | [usguilherme/python-task-manager](https://github.com/usguilherme/task-manager-api.git) |
 
 </details>
 
