@@ -122,7 +122,7 @@ Sistema de gerenciamento para salão de beleza, desenvolvido em Java com foco em
 <summary><b>📋 Task Manager CLI</b></summary>
 <br>
 
-Gerenciador de tarefas via linha de comando com persistência de dados em SQLite. api
+Gerenciador de tarefas via linha de comando com persistência de dados em SQLite.
 
 | Stack | Repositório |
 |:---|:---|
