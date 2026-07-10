@@ -43,6 +43,8 @@
 
 Desenvolvedor **Back-End** em formação em Ciência da Computação pela **UFCG**, com foco em **arquitetura limpa**, **qualidade de código** e **design bem estruturado**. Atuo com **Java** e estou expandindo minha atuação para **Python aplicado a Inteligência Artificial e Machine Learning**.
 
+Tenho experiência construindo **APIs REST** e outras soluções back-end, sempre buscando separação de responsabilidades, testes e código de fácil manutenção.
+
 Gosto de entender o problema antes de escrever a primeira linha de código — acredito que soluções sólidas nascem de um bom raciocínio, não de atalhos.
 
 ```yaml
