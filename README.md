@@ -122,11 +122,11 @@ Sistema de gerenciamento para salão de beleza, desenvolvido em Java com foco em
 <summary><b>📋 Task Manager CLI</b></summary>
 <br>
 
-Gerenciador de tarefas via linha de comando com persistência de dados em SQLite.
+Gerenciador de tarefas via linha de comando com persistência de dados em SQLite. api
 
 | Stack | Repositório |
 |:---|:---|
-| `Python` `SQLite` | [usguilherme/python-task-manager](https://github.com/usguilherme/task-manager-api.git) |
+| `Python` `SQLite` | [usguilherme/task-manager-api](https://github.com/usguilherme/task-manager-api) |
 
 </details>
 
