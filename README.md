@@ -93,12 +93,6 @@ Open_To:
 
 ---
 
-## 🤝 Como uso IA no meu workflow
-
-Uso IA como par de programação para acelerar prototipagem, explorar stacks fora do meu foco principal e revisar abordagens técnicas — sempre entendendo, testando e corrigindo o que é gerado, nunca copiando às cegas.
-
-Um exemplo prático: no projeto [**Império Pizzaria**](https://github.com/usguilherme/imperioPizzaria) (Next.js/React/TypeScript), identifiquei que o Safari no iOS bloqueava a abertura automática do WhatsApp após o checkout, porque a chamada acontecia depois de um `await` — algo que o Android/Chrome permite, mas o WebKit não. Conduzi a IA para implementar a correção (detecção de plataforma + fluxo alternativo com clique manual do usuário), revisei o código gerado, encontrei e corrigi um erro de tipagem que passou despercebido, e validei o porquê da solução funcionar em cada plataforma antes de aceitar.
-
 ```yaml
 Como_uso_IA:
   Para: "Prototipagem rápida e exploração de stacks (ex: Next.js/React)"
