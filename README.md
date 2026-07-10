@@ -94,6 +94,21 @@ Open_To:
 
 ---
 
+## 🤝 Como uso IA no meu workflow
+
+Uso IA como par de programação para acelerar prototipagem, explorar stacks fora do meu foco principal e revisar abordagens técnicas — sempre entendendo, testando e corrigindo o que é gerado, nunca copiando às cegas.
+
+Um exemplo prático: no projeto [**Império Pizzaria**](https://github.com/usguilherme/imperioPizzaria) (Next.js/React/TypeScript), identifiquei que o Safari no iOS bloqueava a abertura automática do WhatsApp após o checkout, porque a chamada acontecia depois de um `await` — algo que o Android/Chrome permite, mas o WebKit não. Conduzi a IA para implementar a correção (detecção de plataforma + fluxo alternativo com clique manual do usuário), revisei o código gerado, encontrei e corrigi um erro de tipagem que passou despercebido, e validei o porquê da solução funcionar em cada plataforma antes de aceitar.
+
+```yaml
+Como_uso_IA:
+  Para: "Prototipagem rápida e exploração de stacks (ex: Next.js/React)"
+  Meu_papel: "Definir o problema, revisar código, testar, corrigir erros e validar o raciocínio"
+  Não_faço: "Aceitar código sem entender ou sem testar"
+```
+
+---
+
 ## 🚀 Projetos em Destaque
 
 <details>
@@ -153,6 +168,18 @@ Plataforma interativa de perguntas e respostas.
 | Stack | Repositório |
 |:---|:---|
 | `Python` | [usguilherme/python-quiz-system](https://github.com/usguilherme/python-quiz-system) |
+
+</details>
+
+<details>
+<summary><b>🍕 Império Pizzaria</b></summary>
+<br>
+
+Sistema de delivery fullstack com checkout, carrinho e integração com WhatsApp, construído explorando Next.js/React fora do meu foco principal, com apoio de IA como par de programação.
+
+| Stack | Repositório |
+|:---|:---|
+| `Next.js` `React` `TypeScript` `Zustand` | [usguilherme/imperioPizzaria](https://github.com/usguilherme/imperioPizzaria) |
 
 </details>
 
