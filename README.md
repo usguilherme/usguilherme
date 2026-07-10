@@ -124,9 +124,9 @@ Sistema de delivery fullstack com checkout, carrinho e integração com WhatsApp
 
 Gerenciador de tarefas via linha de comando com persistência de dados em SQLite.
 
-| Stack | Repositório |
-|:---|:---|
-| `Python` `SQLite` | [usguilherme/task-manager-api](https://github.com/usguilherme/task-manager-api) |
+| Stack | Repositório | Vídeo Demonstrativo |
+|:---|:---|:---|
+| `Python` `SQLite` | [usguilherme/task-manager-api](https://github.com/usguilherme/task-manager-api) | [Assistir no Drive](https://drive.google.com/file/d/1WXqCU_YwUlMiPGc9MOQdsEfGSaEWn5X2/view?usp=sharing) |
 
 </details>
 
