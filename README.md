@@ -107,14 +107,14 @@ Como_uso_IA:
 ## 🚀 Projetos em Destaque
 
 <details>
-<summary><b>🏛️ Salão Cássia Nunes Hair</b></summary>
+<summary><b>🍕 Império Pizzaria</b></summary>
 <br>
 
-Sistema de gerenciamento para salão de beleza, desenvolvido em Java com foco em organização de agendamentos e serviços.
+Sistema de delivery fullstack com checkout, carrinho e integração com WhatsApp, construído explorando Next.js/React fora do meu foco principal, com apoio de IA como par de programação.
 
-| Stack | Repositório |
-|:---|:---|
-| `Java` | [usguilherme/CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair) |
+| Stack | Repositório | Vídeo Demonstrativo |
+|:---|:---|:---|
+| `Next.js` `React` `TypeScript` `Zustand` | [usguilherme/imperioPizzaria](https://github.com/usguilherme/imperioPizzaria) | [Assistir no Drive](https://drive.google.com/file/d/1X1j0HG32nZWeS4s3D2D_hiK1imNJ-cGa/view?usp=sharing) |
 
 </details>
 
@@ -131,6 +131,18 @@ Gerenciador de tarefas via linha de comando com persistência de dados em SQLite
 </details>
 
 <details>
+<summary><b>🏛️ Salão Cássia Nunes Hair</b></summary>
+<br>
+
+Sistema de gerenciamento para salão de beleza, desenvolvido em Java com foco em organização de agendamentos e serviços.
+
+| Stack | Repositório |
+|:---|:---|
+| `Java` | [usguilherme/CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair) |
+
+</details>
+
+<details>
 <summary><b>📚 Sistema de Biblioteca</b></summary>
 <br>
 
@@ -139,42 +151,6 @@ Sistema de gestão de acervo bibliográfico construído com Programação Orient
 | Stack | Repositório |
 |:---|:---|
 | `Python` `POO` | [usguilherme/sistema-biblioteca-python](https://github.com/usguilherme/sistema-biblioteca-python) |
-
-</details>
-
-<details>
-<summary><b>🔐 Validador de CPF</b></summary>
-<br>
-
-Validação completa de CPF seguindo o algoritmo oficial de dígitos verificadores.
-
-| Stack | Repositório |
-|:---|:---|
-| `Python` | [usguilherme/cpf-validator-python](https://github.com/usguilherme/cpf-validator-python) |
-
-</details>
-
-<details>
-<summary><b>🧩 Sistema de Quiz</b></summary>
-<br>
-
-Plataforma interativa de perguntas e respostas.
-
-| Stack | Repositório |
-|:---|:---|
-| `Python` | [usguilherme/python-quiz-system](https://github.com/usguilherme/python-quiz-system) |
-
-</details>
-
-<details>
-<summary><b>🍕 Império Pizzaria</b></summary>
-<br>
-
-Sistema de delivery fullstack com checkout, carrinho e integração com WhatsApp, construído explorando Next.js/React fora do meu foco principal, com apoio de IA como par de programação.
-
-| Stack | Repositório |
-|:---|:---|
-| `Next.js` `React` `TypeScript` `Zustand` | [usguilherme/imperioPizzaria](https://github.com/usguilherme/imperioPizzaria) |
 
 </details>
 
