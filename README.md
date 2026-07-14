@@ -146,11 +146,11 @@ Sistema de gerenciamento para salão de beleza, desenvolvido em Java com foco em
 <summary><b>📚 Sistema de Biblioteca</b></summary>
 <br>
 
-Sistema de gestão de acervo bibliográfico construído com Programação Orientada a Objetos.
+Sistema de gestão de acervo bibliográfico construído com Programação Orientada a Objetos, com interface web em Streamlit e persistência de dados em JSON.
 
-| Stack | Repositório |
-|:---|:---|
-| `Python` `POO` | [usguilherme/sistema-biblioteca-python](https://github.com/usguilherme/sistema-biblioteca-python) |
+| Stack | Repositório | Vídeo Demonstrativo |
+|:---|:---|:---|
+| `Python` `POO` `Streamlit` | [usguilherme/sistema-biblioteca-python](https://github.com/usguilherme/sistema-biblioteca-python) | [Assistir no Drive](https://drive.google.com/drive/folders/12T8lSGp9qwdGdC-tBW6fiCTHPk_qTKjc?usp=sharing) |
 
 </details>
 
