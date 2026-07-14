@@ -2,7 +2,7 @@
 
 # Guilherme Macário
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Back-End+Developer;Java+%7C+Python+%7C+IA+%26+ML;Clean+Code+%26+Boas+Pr%C3%A1ticas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Back-End+Developer;Java+%7C+Python;Clean+Code+%26+Boas+Pr%C3%A1ticas;Explorando+IA+%26+ML" alt="Typing SVG" />
 
 <br>
 
@@ -41,16 +41,17 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor **Back-End** em formação em Ciência da Computação pela **UFCG**, com foco em **arquitetura limpa**, **qualidade de código** e **design bem estruturado**. Atuo com **Java** e estou expandindo minha atuação para **Python aplicado a Inteligência Artificial e Machine Learning**.
+Desenvolvedor **Back-End** em formação em Ciência da Computação pela **UFCG**, com foco em **arquitetura limpa**, **qualidade de código** e **design bem estruturado**. Atuo principalmente com **Java** e **Python**, aplicando Programação Orientada a Objetos, persistência de dados e organização de código em projetos práticos.
 
-Tenho experiência construindo **APIs REST** e outras soluções back-end, sempre buscando separação de responsabilidades, testes e código de fácil manutenção.
+Estou avançando para a construção de **APIs REST** e, em paralelo, explorando **Python aplicado a Inteligência Artificial e Machine Learning**.
 
 Gosto de entender o problema antes de escrever a primeira linha de código — acredito que soluções sólidas nascem de um bom raciocínio, não de atalhos.
 
 ```yaml
 Perfil:
   Formação: "Ciência da Computação — UFCG"
-  Foco_Principal: "Back-End Development"
+  Foco_Principal: "Back-End Development (Java & Python)"
+  Avançando_Para: "Construção de APIs REST"
   Explorando: "Python para IA & Machine Learning"
   Mentalidade: "Clean Code, arquitetura e resolução de problemas"
 
