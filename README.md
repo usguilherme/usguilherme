@@ -90,6 +90,34 @@ Sistema de gestão de acervo bibliográfico construído com Programação Orient
 
 ---
 
+## 🎓 Acadêmico
+
+<details open>
+<summary><b>🗂️ Lab Estrutura de Dados Java</b></summary>
+<br>
+
+Repositório com implementações e exercícios de estrutura de dados desenvolvidos em Java durante a graduação.
+
+| Stack | Repositório |
+|:---|:---|
+| `Java` | [usguilherme/LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava) |
+
+</details>
+
+<details>
+<summary><b>🧩 LeetCode - Estrutura de Dados & Algoritmos</b></summary>
+<br>
+
+Repositório com soluções de exercícios de estrutura de dados e algoritmos, resolvidos na prática para reforçar lógica de programação e complexidade de código.
+
+| Stack | Repositório |
+|:---|:---|
+| `Python` | [usguilherme/LeetCode](https://github.com/usguilherme/LeetCode) |
+
+</details>
+
+---
+
 ## 🤖 Usando IA ao Meu Favor
 
 Uso IA como par de programação para prototipagem rápida e exploração de stacks fora do meu foco principal — sempre definindo o problema, revisando o código gerado, testando e validando o raciocínio antes de aceitar qualquer solução.
