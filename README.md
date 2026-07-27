@@ -17,21 +17,9 @@
 <a href="mailto:guilhermeprofissionalmacario@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://wa.me/5583993043551">
-  <img src="https://img.shields.io/badge/WhatsApp-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 <a href="https://github.com/usguilherme">
   <img src="https://img.shields.io/badge/GitHub-A61C1C?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/gnmacario_/">
-  <img src="https://img.shields.io/badge/Instagram-C1272D?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=usguilherme&color=B22222&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/usguilherme?color=8B0000&style=for-the-badge&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/usguilherme?color=DC143C&style=for-the-badge&label=STARS&logo=github)
 
 </div>
 
@@ -47,79 +35,24 @@ Estou avançando para a construção de **APIs REST** e, em paralelo, explorando
 
 Gosto de entender o problema antes de escrever a primeira linha de código — acredito que soluções sólidas nascem de um bom raciocínio, não de atalhos.
 
-```yaml
-Perfil:
-  Formação: "Ciência da Computação — UFCG"
-  Foco_Principal: "Back-End Development (Java & Python)"
-  Avançando_Para: "Construção de APIs REST"
-  Explorando: "Python para IA & Machine Learning"
-  Mentalidade: "Clean Code, arquitetura e resolução de problemas"
-
-Open_To:
-  - Oportunidades como Desenvolvedor Back-End
-  - Projetos envolvendo Python, Java e Machine Learning
-  - Colaborações open-source
-```
+> 🎯 Em transição de carreira, buscando minha primeira oportunidade como **Desenvolvedor Back-End**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Linguagens**
-
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
-
-**Banco de Dados**
-
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
-
-**Ferramentas & Versionamento**
-
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
 
-## 🤖 IA & Machine Learning
-
-<div align="center">
-
-| Área | Status | Detalhes |
-|:---|:---:|:---|
-| **Python Avançado** | 🔴 Em andamento | Curso completo do básico ao avançado (Luiz Otávio) |
-| **Machine Learning & Data Science** | 🔴 Em andamento | Fundamentos de ML e ciência de dados com projetos práticos |
-| **Estrutura de Dados** | 🟢 Concluído | Listas, pilhas, filas, árvores e hash maps em Java |
-
-</div>
-
----
-
-```yaml
-Como_uso_IA:
-  Para: "Prototipagem rápida e exploração de stacks (ex: Next.js/React)"
-  Meu_papel: "Definir o problema, revisar código, testar, corrigir erros e validar o raciocínio"
-  Não_faço: "Aceitar código sem entender ou sem testar"
-```
-
----
-
 ## 🚀 Projetos em Destaque
 
-<details>
-<summary><b>🍕 Império Pizzaria</b></summary>
-<br>
-
-Sistema de delivery fullstack com checkout, carrinho e integração com WhatsApp, construído explorando Next.js/React fora do meu foco principal, com apoio de IA como par de programação.
-
-| Stack | Repositório | Vídeo Demonstrativo |
-|:---|:---|:---|
-| `Next.js` `React` `TypeScript` `Zustand` | [usguilherme/imperioPizzaria](https://github.com/usguilherme/imperioPizzaria) | [Assistir no Drive](https://drive.google.com/file/d/1X1j0HG32nZWeS4s3D2D_hiK1imNJ-cGa/view?usp=sharing) |
-
-</details>
-
-<details>
+<details open>
 <summary><b>📋 Task Manager CLI</b></summary>
 <br>
 
@@ -157,75 +90,21 @@ Sistema de gestão de acervo bibliográfico construído com Programação Orient
 
 ---
 
-## 📚 Trabalhos Acadêmicos
+## 🤖 Usando IA ao Meu Favor
 
-| Projeto | Conteúdo | Repositório |
-|:---|:---|:---|
-| Estrutura de Dados | Listas, Pilhas, Filas, Árvores, Hash Maps | [`Java`](https://github.com/usguilherme/LabEstruturaDadosJava) |
+Uso IA como par de programação para prototipagem rápida e exploração de stacks fora do meu foco principal, sempre definindo o problema, revisando o código gerado, testando e validando o raciocínio antes de aceitar qualquer solução.
 
----
-
-## 💼 Experiência
-
-**Estampador / Empreendedor — Camisas Personalizadas**
-`Autônomo`
-
-Atuação independente na criação e estampagem de camisas personalizadas, do atendimento ao cliente à entrega do produto final.
-
-- Atendimento direto ao cliente, do briefing à entrega
-- Produção e estampagem das peças personalizadas
-- Gestão de pedidos, prazos e qualidade do produto final
-
-`Empreendedorismo` `Atendimento ao Cliente` `Gestão de Produção`
-
-> 🎯 Atualmente em transição de carreira, buscando minha primeira oportunidade como **Desenvolvedor Back-End**, aplicando os conhecimentos em Java, Python e IA/ML desenvolvidos na graduação e nos projetos pessoais.
-
----
-
-## 🏆 Certificações
-
-- 🐍 **Python 3 — Do Básico ao Avançado**, Luiz Otávio Mesquita — [repositório do curso](https://github.com/usguilherme/Python3LuizOtavio.git)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-blue-seven.vercel.app/api?username=usguilherme&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF4D4D&icon_color=DC143C&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats-blue-seven.vercel.app/api/top-langs/?username=usguilherme&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF4D4D&text_color=c9d1d9" height="165"/>
-
-<br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=usguilherme&theme=dark&hide_border=true&background=0d0d0d&ring=DC143C&fire=FF4D4D&currStreakLabel=FF4D4D&locale=pt_br)](https://github.com/usguilherme)
-
+<details open>
+<summary><b>🍕 Império Pizzaria</b></summary>
 <br>
 
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=usguilherme&theme=react-dark&hide_border=true&area=true&color=FF4D4D&line=DC143C)](https://github.com/usguilherme)
+Sistema de delivery fullstack com checkout, carrinho e integração com WhatsApp, construído explorando Next.js/React fora do meu foco principal, com apoio de IA como par de programação.
 
-<br><br>
+| Stack | Repositório | Vídeo Demonstrativo |
+|:---|:---|:---|
+| `Next.js` `React` `TypeScript` `Zustand` | [usguilherme/imperioPizzaria](https://github.com/usguilherme/imperioPizzaria) | [Assistir no Drive](https://drive.google.com/file/d/1O9aMDHB94imFHYFdVb09rCgL7n3BqfP0/view?usp=sharing) |
 
-<img src="https://raw.githubusercontent.com/usguilherme/usguilherme/output/github-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🎯 Foco Atual
-
-```yaml
-Focus:
-  Aprendendo:
-    - Python avançado aplicado a IA & ML
-    - Machine Learning e Ciência de Dados
-  Construindo:
-    - Projetos práticos em Python (POO, persistência, validação de dados)
-  Explorando:
-    - Boas práticas de arquitetura em Java
-  Aberto_a:
-    - Oportunidades como Desenvolvedor Back-End
-    - Projetos colaborativos e open-source
-```
+</details>
 
 ---
 
@@ -233,7 +112,7 @@ Focus:
 
 <div align="center">
 
-**📧 [Email](mailto:guilhermeprofissionalmacario@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-macario-900a7733b/) • 🐙 [GitHub](https://github.com/usguilherme) • 📱 [WhatsApp](https://wa.me/5583993043551)**
+**📧 [Email](mailto:guilhermeprofissionalmacario@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-macario-900a7733b/) • 🐙 [GitHub](https://github.com/usguilherme)**
 
 </div>
 
@@ -241,8 +120,6 @@ Focus:
 
 <div align="center">
 
-> *"Primeiro, resolva o problema. Depois, escreva o código."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B0000,B22222,DC143C,FF4500&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B0000,B22222,DC143C,FF4500&height=100&section=footer"/>
 
 </div>
