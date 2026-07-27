@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/GitHub-A61C1C?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+### 🎯 Buscando oportunidade como Desenvolvedor Back-End (Java / Python)
+
 </div>
 
 <br>
@@ -34,8 +36,6 @@ Desenvolvedor **Back-End** em formação em Ciência da Computação pela **UFCG
 Estou avançando para a construção de **APIs REST** e, em paralelo, explorando **Python aplicado a Inteligência Artificial e Machine Learning**.
 
 Gosto de entender o problema antes de escrever a primeira linha de código — acredito que soluções sólidas nascem de um bom raciocínio, não de atalhos.
-
-> 🎯 Em transição de carreira, buscando minha primeira oportunidade como **Desenvolvedor Back-End**.
 
 ---
 
@@ -92,7 +92,7 @@ Sistema de gestão de acervo bibliográfico construído com Programação Orient
 
 ## 🤖 Usando IA ao Meu Favor
 
-Uso IA como par de programação para prototipagem rápida e exploração de stacks fora do meu foco principal, sempre definindo o problema, revisando o código gerado, testando e validando o raciocínio antes de aceitar qualquer solução.
+Uso IA como par de programação para prototipagem rápida e exploração de stacks fora do meu foco principal — sempre definindo o problema, revisando o código gerado, testando e validando o raciocínio antes de aceitar qualquer solução.
 
 <details open>
 <summary><b>🍕 Império Pizzaria</b></summary>
