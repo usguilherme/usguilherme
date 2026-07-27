@@ -52,7 +52,7 @@ Gosto de entender o problema antes de escrever a primeira linha de código — a
 
 ## 🚀 Projetos em Destaque
 
-<details open>
+<details>
 <summary><b>📋 Task Manager CLI</b></summary>
 <br>
 
@@ -92,7 +92,7 @@ Sistema de gestão de acervo bibliográfico construído com Programação Orient
 
 ## 🎓 Acadêmico
 
-<details open>
+<details>
 <summary><b>🗂️ Lab Estrutura de Dados Java</b></summary>
 <br>
 
@@ -122,7 +122,7 @@ Repositório com soluções de exercícios de estrutura de dados e algoritmos, r
 
 Uso IA como par de programação para prototipagem rápida e exploração de stacks fora do meu foco principal — sempre definindo o problema, revisando o código gerado, testando e validando o raciocínio antes de aceitar qualquer solução.
 
-<details open>
+<details>
 <summary><b>🍕 Império Pizzaria</b></summary>
 <br>
 
