@@ -1,153 +1,70 @@
-<div align="center">
-
 # Guilherme Macário
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Back-End+Developer;Java+%7C+Python;Clean+Code+%26+Boas+Pr%C3%A1ticas;Explorando+IA+%26+ML" alt="Typing SVG" />
+**Estudante de Ciência da Computação na UFCG | Back-End Developer**
 
-<br>
+Campina Grande – PB
 
-![Ciência da Computação](https://img.shields.io/badge/UFCG-Ciência%20da%20Computação-8B0000?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Campina%20Grande-PB%2C%20Brasil-B22222?style=for-the-badge&logo=googlemaps&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/guilherme-macario-900a7733b/) • [Email](mailto:guilhermeprofissionalmacario@gmail.com) • [GitHub](https://github.com/usguilherme)
 
-<br>
-
-<a href="https://www.linkedin.com/in/guilherme-macario-900a7733b/">
-  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:guilhermeprofissionalmacario@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/usguilherme">
-  <img src="https://img.shields.io/badge/GitHub-A61C1C?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-### 🎯 Buscando oportunidade como Desenvolvedor Back-End (Java / Python)
-
-</div>
-
-<br>
+Buscando oportunidade de estágio em desenvolvimento de software, com foco em Back-End usando Java e Python.
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre mim
 
-Desenvolvedor **Back-End** em formação em Ciência da Computação pela **UFCG**, com foco em **arquitetura limpa**, **qualidade de código** e **design bem estruturado**. Atuo principalmente com **Java** e **Python**, aplicando Programação Orientada a Objetos, persistência de dados e organização de código em projetos práticos.
+Estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG), com foco em desenvolvimento Back-End. Tenho experiência prática em projetos acadêmicos e pessoais utilizando Java, Python, Programação Orientada a Objetos e bancos de dados.
 
-Estou avançando para a construção de **APIs REST** e, em paralelo, explorando **Python aplicado a Inteligência Artificial e Machine Learning**.
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs e boas práticas de programação, além de explorar aplicações de Inteligência Artificial com Python.
 
-Gosto de entender o problema antes de escrever a primeira linha de código — acredito que soluções sólidas nascem de um bom raciocínio, não de atalhos.
+## Tecnologias
 
----
+- **Linguagens:** Java e Python
+- **Bancos de dados:** MySQL e SQLite
+- **Ferramentas:** Git e GitHub
+- **Conceitos:** POO, estruturas de dados e algoritmos
 
-## 🛠️ Tech Stack
+## Projetos
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+### 1. Task Manager CLI
+Gerenciador de tarefas em Python com operações CRUD e persistência de dados em SQLite.
 
----
+- **Tecnologias:** Python, SQLite
+- [Repositório](https://github.com/usguilherme/task-manager-api) • [Vídeo demonstrativo](https://drive.google.com/file/d/1WXqCU_YwUlMiPGc9MOQdsEfGSaEWn5X2/view?usp=sharing)
 
-## 🚀 Projetos em Destaque
+### 2. Salão Cássia Nunes Hair
+Sistema de gerenciamento para salão de beleza, com foco na organização de agendamentos e serviços.
 
-<details>
-<summary><b>📋 Task Manager CLI</b></summary>
-<br>
+- **Tecnologia:** Java
+- [Repositório](https://github.com/usguilherme/CassiaNunesHair)
 
-Gerenciador de tarefas via linha de comando com persistência de dados em SQLite.
+### 3. Sistema de Biblioteca
+Sistema de gerenciamento de acervo bibliográfico com Programação Orientada a Objetos, interface web e persistência em JSON.
 
-| Stack | Repositório | Vídeo Demonstrativo |
-|:---|:---|:---|
-| `Python` `SQLite` | [usguilherme/task-manager-api](https://github.com/usguilherme/task-manager-api) | [Assistir no Drive](https://drive.google.com/file/d/1WXqCU_YwUlMiPGc9MOQdsEfGSaEWn5X2/view?usp=sharing) |
+- **Tecnologias:** Python, POO, Streamlit, JSON
+- [Repositório](https://github.com/usguilherme/sistema-biblioteca-python) • [Vídeo demonstrativo](https://drive.google.com/drive/folders/12T8lSGp9qwdGdC-tBW6fiCTHPk_qTKjc?usp=sharing)
 
-</details>
+### 4. Lab Estrutura de Dados Java
+Implementações e exercícios de estruturas de dados desenvolvidos durante a graduação.
 
-<details>
-<summary><b>🏛️ Salão Cássia Nunes Hair</b></summary>
-<br>
+- **Tecnologia:** Java
+- [Repositório](https://github.com/usguilherme/LabEstruturaDadosJava)
 
-Sistema de gerenciamento para salão de beleza, desenvolvido em Java com foco em organização de agendamentos e serviços.
+### 5. LeetCode — Estruturas de Dados e Algoritmos
+Soluções práticas de exercícios para desenvolver lógica de programação e aprofundar conhecimentos em algoritmos.
 
-| Stack | Repositório |
-|:---|:---|
-| `Java` | [usguilherme/CassiaNunesHair](https://github.com/usguilherme/CassiaNunesHair) |
+- **Tecnologia:** Python
+- [Repositório](https://github.com/usguilherme/LeetCode)
 
-</details>
+### 6. Império Pizzaria
+Sistema de delivery com carrinho, checkout e integração com WhatsApp, desenvolvido explorando tecnologias fora do meu foco principal, com apoio de IA como ferramenta de desenvolvimento.
 
-<details>
-<summary><b>📚 Sistema de Biblioteca</b></summary>
-<br>
+- **Tecnologias:** Next.js, React, TypeScript, Zustand
+- [Repositório](https://github.com/usguilherme/imperioPizzaria) • [Vídeo demonstrativo](https://drive.google.com/file/d/1O9aMDHB94imFHYFdVb09rCgL7n3BqfP0/view?usp=sharing)
 
-Sistema de gestão de acervo bibliográfico construído com Programação Orientada a Objetos, com interface web em Streamlit e persistência de dados em JSON.
+## Como utilizo IA
 
-| Stack | Repositório | Vídeo Demonstrativo |
-|:---|:---|:---|
-| `Python` `POO` `Streamlit` | [usguilherme/sistema-biblioteca-python](https://github.com/usguilherme/sistema-biblioteca-python) | [Assistir no Drive](https://drive.google.com/drive/folders/12T8lSGp9qwdGdC-tBW6fiCTHPk_qTKjc?usp=sharing) |
-
-</details>
+Utilizo ferramentas de IA como apoio à prototipagem e ao aprendizado de novas tecnologias. Meu processo inclui definir o problema, revisar o código gerado, executar testes e validar as soluções antes de incorporá-las aos projetos.
 
 ---
 
-## 🎓 Acadêmico
-
-<details>
-<summary><b>🗂️ Lab Estrutura de Dados Java</b></summary>
-<br>
-
-Repositório com implementações e exercícios de estrutura de dados desenvolvidos em Java durante a graduação.
-
-| Stack | Repositório |
-|:---|:---|
-| `Java` | [usguilherme/LabEstruturaDadosJava](https://github.com/usguilherme/LabEstruturaDadosJava) |
-
-</details>
-
-<details>
-<summary><b>🧩 LeetCode - Estrutura de Dados & Algoritmos</b></summary>
-<br>
-
-Repositório com soluções de exercícios de estrutura de dados e algoritmos, resolvidos na prática para reforçar lógica de programação e complexidade de código.
-
-| Stack | Repositório |
-|:---|:---|
-| `Python` | [usguilherme/LeetCode](https://github.com/usguilherme/LeetCode) |
-
-</details>
-
----
-
-## 🤖 Usando IA ao Meu Favor
-
-Uso IA como par de programação para prototipagem rápida e exploração de stacks fora do meu foco principal — sempre definindo o problema, revisando o código gerado, testando e validando o raciocínio antes de aceitar qualquer solução.
-
-<details>
-<summary><b>🍕 Império Pizzaria</b></summary>
-<br>
-
-Sistema de delivery fullstack com checkout, carrinho e integração com WhatsApp, construído explorando Next.js/React fora do meu foco principal, com apoio de IA como par de programação.
-
-| Stack | Repositório | Vídeo Demonstrativo |
-|:---|:---|:---|
-| `Next.js` `React` `TypeScript` `Zustand` | [usguilherme/imperioPizzaria](https://github.com/usguilherme/imperioPizzaria) | [Assistir no Drive](https://drive.google.com/file/d/1O9aMDHB94imFHYFdVb09rCgL7n3BqfP0/view?usp=sharing) |
-
-</details>
-
----
-
-## 📬 Conecte-se Comigo
-
-<div align="center">
-
-**📧 [Email](mailto:guilhermeprofissionalmacario@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-macario-900a7733b/) • 🐙 [GitHub](https://github.com/usguilherme)**
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B0000,B22222,DC143C,FF4500&height=100&section=footer"/>
-
-</div>
+**Contato:** [Email](mailto:guilhermeprofissionalmacario@gmail.com) • [LinkedIn](https://www.linkedin.com/in/guilherme-macario-900a7733b/) • [GitHub](https://github.com/usguilherme)
