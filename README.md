@@ -1,6 +1,7 @@
-# Guilherme Macário
+# Guilherme Macario
 
-**Estudante de Ciência da Computação na UFCG | Desenvolvedor Back-End (Java & Python)**
+**Desenvolvedor Back-End | Python · Java · SQL | APIs e CRUD**
+Estudante de Ciência da Computação na UFCG
 
 📍 Campina Grande – PB · 🎓 5º período · 🎯 Buscando estágio em desenvolvimento de software
 
@@ -12,7 +13,7 @@
 
 Estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG), com foco em desenvolvimento Back-End. Construo projetos próprios em Java e Python aplicando Programação Orientada a Objetos, separação de responsabilidades, persistência de dados e testes automatizados.
 
-Neste momento estou aprofundando Python com o curso do Luiz Otávio Miranda na Udemy, construindo projetos junto com as aulas, e avançando para APIs REST (FastAPI em Python e Spring Boot em Java). Também pretendo explorar Python aplicado a Inteligência Artificial.
+Neste momento estou avançando para APIs REST, com FastAPI em Python e Spring Boot em Java.
 
 Gosto de entender o problema antes de escrever a primeira linha de código.
 
@@ -22,7 +23,7 @@ Gosto de entender o problema antes de escrever a primeira linha de código.
 |---|---|
 | **Linguagens** | Java, Python (também TypeScript e JavaScript em projetos exploratórios) |
 | **Back-End** | FastAPI, Pydantic, Spring Boot (em estudo) |
-| **Bancos de dados** | SQLite, PostgreSQL (via Prisma) |
+| **Bancos de dados / SQL** | SQLite, PostgreSQL (via Prisma) |
 | **Qualidade e entrega** | pytest, ruff, pre-commit, GitHub Actions, Docker |
 | **Ferramentas** | Git e GitHub |
 | **Conceitos** | POO, arquitetura em camadas, estruturas de dados e algoritmos |
@@ -61,7 +62,7 @@ Implementações próprias de estruturas de dados e algoritmos clássicos feitas
 - [Repositório](https://github.com/usguilherme/LabEstruturaDadosJava)
 
 ### 🐍 Python 3 — Curso do Luiz Otávio Miranda (Udemy)
-Estudo em andamento. Acompanho o curso e reproduzo os exercícios e projetos das aulas, adaptando e estendendo com ideias próprias para fixar o conteúdo.
+Estudo em andamento: exercícios e projetos que construo junto com as aulas para fixar o conteúdo.
 
 - **Stack:** Python
 - [Repositório](https://github.com/usguilherme/Python3LuizOtavio)
@@ -84,7 +85,7 @@ Sistema de delivery com cardápio, carrinho, checkout, integração com WhatsApp
 
 ## Como utilizo IA
 
-Uso ferramentas de IA como apoio à prototipagem e ao aprendizado de novas tecnologias. Meu processo é: definir o problema, revisar o código gerado, executar testes e só então incorporar a solução ao projeto. Nos projetos em Java e Python (foco Back-End), a arquitetura e as decisões são minhas e consigo explicar cada camada.
+Uso ferramentas de IA como apoio à prototipagem e ao aprendizado de novas tecnologias. Meu processo é: definir o problema, revisar o código gerado, executar testes e só então incorporar a solução ao projeto. Nos projetos em Java e Python, que são meu foco Back-End, escrevo e reviso o código por conta própria.
 
 ---
 
