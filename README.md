@@ -1,70 +1,101 @@
 # Guilherme Macário
 
-**Estudante de Ciência da Computação na UFCG | Back-End Developer**
+**Estudante de Ciência da Computação na UFCG | Desenvolvedor Back-End (Java & Python)**
 
-Campina Grande – PB
+📍 Campina Grande – PB · 🎓 5º período · 🎯 Buscando estágio em desenvolvimento de software
 
 [LinkedIn](https://www.linkedin.com/in/guilherme-macario-900a7733b/) • [Email](mailto:guilhermeprofissionalmacario@gmail.com) • [GitHub](https://github.com/usguilherme)
-
-Buscando oportunidade de estágio em desenvolvimento de software, com foco em Back-End usando Java e Python.
 
 ---
 
 ## Sobre mim
 
-Estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG), com foco em desenvolvimento Back-End. Tenho experiência prática em projetos acadêmicos e pessoais utilizando Java, Python, Programação Orientada a Objetos e bancos de dados.
+Estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG), com foco em desenvolvimento Back-End. Construo projetos próprios em Java e Python aplicando Programação Orientada a Objetos, separação de responsabilidades, persistência de dados e testes automatizados.
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs e boas práticas de programação, além de explorar aplicações de Inteligência Artificial com Python.
+Neste momento estou aprofundando Python com o curso do Luiz Otávio Miranda na Udemy, construindo projetos junto com as aulas, e avançando para APIs REST (FastAPI em Python e Spring Boot em Java). Também pretendo explorar Python aplicado a Inteligência Artificial.
+
+Gosto de entender o problema antes de escrever a primeira linha de código.
 
 ## Tecnologias
 
-- **Linguagens:** Java e Python
-- **Bancos de dados:** MySQL e SQLite
-- **Ferramentas:** Git e GitHub
-- **Conceitos:** POO, estruturas de dados e algoritmos
-
-## Projetos
-
-### 1. Task Manager CLI
-Gerenciador de tarefas em Python com operações CRUD e persistência de dados em SQLite.
-
-- **Tecnologias:** Python, SQLite
-- [Repositório](https://github.com/usguilherme/task-manager-api) • [Vídeo demonstrativo](https://drive.google.com/file/d/1WXqCU_YwUlMiPGc9MOQdsEfGSaEWn5X2/view?usp=sharing)
-
-### 2. Salão Cássia Nunes Hair
-Sistema de gerenciamento para salão de beleza, com foco na organização de agendamentos e serviços.
-
-- **Tecnologia:** Java
-- [Repositório](https://github.com/usguilherme/CassiaNunesHair)
-
-### 3. Sistema de Biblioteca
-Sistema de gerenciamento de acervo bibliográfico com Programação Orientada a Objetos, interface web e persistência em JSON.
-
-- **Tecnologias:** Python, POO, Streamlit, JSON
-- [Repositório](https://github.com/usguilherme/sistema-biblioteca-python) • [Vídeo demonstrativo](https://drive.google.com/drive/folders/12T8lSGp9qwdGdC-tBW6fiCTHPk_qTKjc?usp=sharing)
-
-### 4. Lab Estrutura de Dados Java
-Implementações e exercícios de estruturas de dados desenvolvidos durante a graduação.
-
-- **Tecnologia:** Java
-- [Repositório](https://github.com/usguilherme/LabEstruturaDadosJava)
-
-### 5. LeetCode — Estruturas de Dados e Algoritmos
-Soluções práticas de exercícios para desenvolver lógica de programação e aprofundar conhecimentos em algoritmos.
-
-- **Tecnologia:** Python
-- [Repositório](https://github.com/usguilherme/LeetCode)
-
-### 6. Império Pizzaria
-Sistema de delivery com carrinho, checkout e integração com WhatsApp, desenvolvido explorando tecnologias fora do meu foco principal, com apoio de IA como ferramenta de desenvolvimento.
-
-- **Tecnologias:** Next.js, React, TypeScript, Zustand
-- [Repositório](https://github.com/usguilherme/imperioPizzaria) • [Vídeo demonstrativo](https://drive.google.com/file/d/1O9aMDHB94imFHYFdVb09rCgL7n3BqfP0/view?usp=sharing)
-
-## Como utilizo IA
-
-Utilizo ferramentas de IA como apoio à prototipagem e ao aprendizado de novas tecnologias. Meu processo inclui definir o problema, revisar o código gerado, executar testes e validar as soluções antes de incorporá-las aos projetos.
+| Área | Tecnologias |
+|---|---|
+| **Linguagens** | Java, Python (também TypeScript e JavaScript em projetos exploratórios) |
+| **Back-End** | FastAPI, Pydantic, Spring Boot (em estudo) |
+| **Bancos de dados** | SQLite, PostgreSQL (via Prisma) |
+| **Qualidade e entrega** | pytest, ruff, pre-commit, GitHub Actions, Docker |
+| **Ferramentas** | Git e GitHub |
+| **Conceitos** | POO, arquitetura em camadas, estruturas de dados e algoritmos |
 
 ---
 
-**Contato:** [Email](mailto:guilhermeprofissionalmacario@gmail.com) • [LinkedIn](https://www.linkedin.com/in/guilherme-macario-900a7733b/) • [GitHub](https://github.com/usguilherme)
+## Projetos em destaque
+
+### 📋 Gerenciador de Tarefas — API REST
+API REST em Python com **FastAPI** e **SQLite**, frontend web e CLI que compartilham a mesma regra de negócio. Arquitetura em camadas (model → repository → service → API/CLI), validação de domínio, exceções tipadas, logging, **35 testes**, CI com GitHub Actions e Docker.
+
+- **Stack:** Python, FastAPI, SQLite, pytest, Docker, GitHub Actions
+- [Repositório](https://github.com/usguilherme/task-manager-api) • [Vídeo demonstrativo](https://drive.google.com/file/d/1WXqCU_YwUlMiPGc9MOQdsEfGSaEWn5X2/view?usp=sharing)
+
+### 📚 Sistema de Biblioteca
+Gestão de acervo de livros com Programação Orientada a Objetos, separando regras de negócio das interfaces (CLI e web com Streamlit). Dados persistidos em JSON.
+
+- **Stack:** Python, POO, Streamlit, JSON
+- [Repositório](https://github.com/usguilherme/sistema-biblioteca-python) • [Vídeo demonstrativo](https://drive.google.com/drive/folders/12T8lSGp9qwdGdC-tBW6fiCTHPk_qTKjc?usp=sharing)
+
+### 💇 Salão Cássia Nunes Hair
+Sistema de console em Java para gerenciar clientes de um salão: cadastro de clientes comuns e VIP, registro de gastos, cálculo de descontos, busca, atualização de contato e média de gastos. Usa herança, polimorfismo e organização em pacotes (`model`, `controller`, `view`).
+
+- **Stack:** Java, POO
+- **Próximos passos:** agendamento de serviços, funcionários e persistência em banco de dados
+- [Repositório](https://github.com/usguilherme/CassiaNunesHair)
+
+---
+
+## Acadêmico
+
+### 🗂️ Lab Estrutura de Dados Java
+Implementações próprias de estruturas de dados e algoritmos clássicos feitas na graduação: Binary Search Tree, Binary Heap, Linked List, Queue, Stack, Busca Binária e algoritmos de ordenação (Bubble, Selection, Insertion, Merge e Quick Sort).
+
+- **Stack:** Java
+- [Repositório](https://github.com/usguilherme/LabEstruturaDadosJava)
+
+### 🐍 Python 3 — Curso do Luiz Otávio Miranda (Udemy)
+Estudo em andamento. Acompanho o curso e reproduzo os exercícios e projetos das aulas, adaptando e estendendo com ideias próprias para fixar o conteúdo.
+
+- **Stack:** Python
+- [Repositório](https://github.com/usguilherme/Python3LuizOtavio)
+
+### 🧩 LeetCode — Estruturas de Dados e Algoritmos
+Soluções de exercícios para praticar lógica de programação e análise de complexidade.
+
+- **Stack:** Python
+- [Repositório](https://github.com/usguilherme/LeetCode)
+
+---
+
+## Explorando outras stacks (com apoio de IA)
+
+### 🍕 Império Pizzaria
+Sistema de delivery com cardápio, carrinho, checkout, integração com WhatsApp e painel administrativo, construído para explorar Next.js e TypeScript fora do meu foco principal. Usei IA como par de programação e, nesse projeto, o objetivo foi aprender a stack e entregar algo no ar.
+
+- **Stack:** Next.js, React, TypeScript, Prisma, PostgreSQL, NextAuth, Zustand
+- [Repositório](https://github.com/usguilherme/imperioPizzaria) • [Demo online](https://imperio-pizzaria.vercel.app) • [Vídeo demonstrativo](https://drive.google.com/file/d/1O9aMDHB94imFHYFdVb09rCgL7n3BqfP0/view?usp=sharing)
+
+## Como utilizo IA
+
+Uso ferramentas de IA como apoio à prototipagem e ao aprendizado de novas tecnologias. Meu processo é: definir o problema, revisar o código gerado, executar testes e só então incorporar a solução ao projeto. Nos projetos em Java e Python (foco Back-End), a arquitetura e as decisões são minhas e consigo explicar cada camada.
+
+---
+
+## Em andamento
+
+- [ ] API REST em Java com Spring Boot, JPA e banco relacional
+- [ ] Autenticação (JWT) no Gerenciador de Tarefas
+- [ ] Persistência em banco de dados no projeto do salão
+
+---
+
+## Contato
+
+📧 [Email](mailto:guilhermeprofissionalmacario@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-macario-900a7733b/) • 🐙 [GitHub](https://github.com/usguilherme)
