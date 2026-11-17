@@ -1,9 +1,9 @@
 # Guilherme Macário
 
-**Desenvolvedor Back-End | Python · Java · SQL | APIs e CRUD**
+**Desenvolvedor Back-End | Python · Django · Java · SQL · PostgreSQL · JSON | Desenvolvimento de APIs e CRUD**
 
-📍 Campina Grande – PB · Estudante de Ciência da Computação na UFCG (5º período)
-🎯 Buscando estágio em desenvolvimento de software
+📍 Campina Grande – PB · Estudante de Ciência da Computação na UFCG
+🎯 Em busca de estágio em TI
 
 **Contato:** [E-mail](mailto:guilhermeprofissionalmacario@gmail.com) · [LinkedIn](https://www.linkedin.com/in/guilherme-macario-900a7733b/) · [GitHub](https://github.com/usguilherme)
 
@@ -17,7 +17,7 @@ Estudante de Ciência da Computação na UFCG com foco em Back-End. Desenvolvo p
 
 - **Linguagens:** Java, Python, TypeScript, JavaScript
 - **Back-End:** FastAPI, Django, Flask
-- **Dados:** SQLite, PostgreSQL, Prisma
+- **Dados:** SQLite, PostgreSQL, Prisma, JSON
 - **Qualidade e entrega:** Pytest, Ruff, GitHub Actions, Docker
 - **Ferramentas:** Git, GitHub
 - **Conceitos:** POO, arquitetura em camadas, estruturas de dados e algoritmos
